@@ -1,0 +1,377 @@
+{
+  "TFcoal": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "coal_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 16,
+    "chunkChance": 20,
+    "minHeight": 20,
+    "maxHeight": 128,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFiron": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "iron_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 16,
+    "chunkChance": 18,
+    "minHeight": 20,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFgold": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "gold_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 12,
+    "chunkChance": 30,
+    "minHeight": 20,
+    "maxHeight": 45,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFredstone": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "minecraft:redstone_ore", "metadata": 0, "weight": 85},
+      {"name": "bluepower:ruby_ore", "metadata": 0, "weight": 15}
+    ],
+    "clusterSize": 6,
+    "numClusters": 14,
+    "chunkChance": 20,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFdiamond": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "diamond_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 7,
+    "chunkChance": 30,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 10,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFlapis": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "minecraft:lapis_ore", "metadata": 0, "weight": 85},
+      {"name": "bluepower:sapphire_ore", "metadata": 0, "weight": 15}
+    ],
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 14,
+    "chunkChance": 16,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+  "TFemerald": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "emerald_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 6,
+    "numClusters": 7,
+    "chunkChance": 40,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 10,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "whitelist",
+    "dimensions": [
+      7
+    ]
+  },
+    "TFPrometheum": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 0},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFDeep Iron": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 1},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFInfuscolium": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 2},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFOureclase": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 4},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFAstral Silver": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 5},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFCarmot": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 6},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFMithril": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 7},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFRubracium": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 8},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    },
+    "TFOrichalcum": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 11},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 30,
+        "minHeight": 16,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           7
+        ]
+    }
+}

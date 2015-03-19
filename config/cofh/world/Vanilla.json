@@ -1,0 +1,264 @@
+{
+  "dirt": {
+    "template": "uniform",
+    "block": "dirt",
+    "clusterSize": 32,
+    "numClusters": 20,
+    "minHeight": 0,
+    "maxHeight": 128,
+    "retrogen": "false",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      -100,
+      1
+    ]
+  },
+  "gravel": {
+    "template": "uniform",
+    "block": "gravel",
+    "clusterSize": 32,
+    "numClusters": 10,
+    "minHeight": 0,
+    "maxHeight": 128,
+    "retrogen": "false",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      -100,
+      1
+    ]
+  },
+  "coal": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "coal_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 16,
+    "chunkChance": 20,
+    "minHeight": 28,
+    "maxHeight": 128,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "iron": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "iron_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 16,
+    "chunkChance": 18,
+    "minHeight": 28,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "gold": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "gold_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 26,
+    "minHeight": 16,
+    "maxHeight": 45,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "redstone": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "minecraft:redstone_ore", "metadata": 0, "weight": 85},
+      {"name": "bluepower:ruby_ore", "metadata": 0, "weight": 15}
+    ],
+    "clusterSize": 5,
+    "numClusters": 14,
+    "chunkChance": 10,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "diamond": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "diamond_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 7,
+    "chunkChance": 36,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 10,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "lapis": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "minecraft:lapis_ore", "metadata": 0, "weight": 85},
+      {"name": "bluepower:sapphire_ore", "metadata": 0, "weight": 15}
+    ],
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 14,
+    "chunkChance": 16,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 14,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "emerald": {
+    "template": "fractal",
+    "sparse": false,
+    "block": "emerald_ore",
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 7,
+    "chunkChance": 40,
+    "minHeight": 3,
+    "maxHeight": 24,
+    "veinHeight": 4,
+    "veinDiameter": 10,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "quartz": {
+        "template": "uniform",
+        "block": "quartz_ore",
+        "material": "minecraft:netherrack",
+        "clusterSize": 13,
+        "numClusters": 16,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "dictionary", "entry": "NETHER"}
+        ],
+        "dimensionRestriction": "none",
+        "dimensions": []
+    }
+}

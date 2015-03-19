@@ -1,0 +1,244 @@
+{
+    "Prometheum": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 0},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Deep Iron": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 1},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Infuscolium": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 2},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Oureclase": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 4},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Astral Silver": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 5},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Carmot": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 6},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Mithril": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 7},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Rubracium": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 8},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Orichalcum": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 11},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Adamantine": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 13},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 36,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    },
+    "Atlarus": {
+        "template": "uniform",
+        "block": {"name": "Metallurgy:fantasy.ore", "metadata": 14},
+        "material": [
+            {"name": "minecraft:stone"},
+            {"name": "erebus:umberstone", "metadata": 0}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 36,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+           66
+        ]
+    }
+}

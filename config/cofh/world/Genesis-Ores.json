@@ -1,0 +1,827 @@
+{
+    "osmium": {
+          "template": "fractal",
+          "sparse": false,
+          "block": {"name": "Mekanism:OreBlock", "metadata": 0},
+          "material": [
+            {"name": "minecraft:stone"},
+            {"name": "chisel:marble"}
+          ],
+          "clusterSize": 5,
+          "numClusters": 12,
+          "chunkChance": 22,
+          "minHeight": 24,
+          "maxHeight": 64,
+          "veinHeight": 4,
+          "veinDiameter": 12,
+          "verticalDensity": 90,
+          "horizontalDensity": 80,
+          "retrogen": "true",
+          "biomeRestriction": "none",
+          "biomes": [],
+          "dimensionRestriction": "blacklist",
+          "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+          ]
+    },
+    "certusquartz": {
+              "template": "fractal",
+              "sparse": false,
+              "block": [
+                  {"name": "appliedenergistics2:tile.OreQuartz", "weight": 95},
+                  {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight": 5}
+              ],
+              "material": [
+                {"name": "minecraft:stone"},
+                {"name": "chisel:marble"}
+              ],
+              "clusterSize": 5,
+              "numClusters": 12,
+              "chunkChance": 14,
+              "minHeight": 3,
+              "maxHeight": 64,
+              "veinHeight": 4,
+              "veinDiameter": 12,
+              "verticalDensity": 90,
+              "horizontalDensity": 80,
+              "retrogen": "true",
+              "biomeRestriction": "none",
+              "biomes": [],
+              "dimensionRestriction": "blacklist",
+              "dimensions": [
+                -1,
+                1,
+                7,
+                -100,
+                -37,
+                -19,
+                -42
+              ]
+    },
+    "yellorite": {
+          "template": "fractal",
+          "sparse": false,
+          "block": {"name": "BigReactors:YelloriteOre", "metadata": 0},
+          "material": [
+            {"name": "minecraft:stone"},
+            {"name": "chisel:marble"}
+          ],
+          "clusterSize": 5,
+          "numClusters": 12,
+          "chunkChance": 18,
+          "minHeight": 24,
+          "maxHeight": 58,
+          "veinHeight": 4,
+          "veinDiameter": 12,
+          "verticalDensity": 90,
+          "horizontalDensity": 80,
+          "retrogen": "true",
+          "biomeRestriction": "none",
+          "biomes": [],
+          "dimensionRestriction": "blacklist",
+          "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+          ]
+    },
+    "salt": {
+          "template": "fractal",
+          "sparse": false,
+          "block": {"name": "harvestcraft:salt", "metadata": 0},
+          "material": [
+            {"name": "minecraft:stone"},
+            {"name": "chisel:marble"}
+          ],
+          "clusterSize": 5,
+          "numClusters": 8,
+          "chunkChance": 54,
+          "minHeight": 16,
+          "maxHeight": 58,
+          "veinHeight": 4,
+          "veinDiameter": 12,
+          "verticalDensity": 90,
+          "horizontalDensity": 80,
+          "retrogen": "true",
+          "biomeRestriction": "none",
+          "biomes": [],
+          "dimensionRestriction": "blacklist",
+          "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+          ]
+    },
+    "CinnabarAmber": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "Thaumcraft:blockCustomOre", "metadata": 0, "weight": 30},
+          {"name": "Thaumcraft:blockCustomOre", "metadata": 7, "weight": 20}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 14,
+      "chunkChance": 56,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "fireShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 46,
+        "minHeight": 32,
+        "maxHeight": 58,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+          {"type": "name", "entry": "rwg_hotPlains"},
+          {"type": "name", "entry": "rwg_hotForest"},
+          {"type": "name", "entry": "rwg_hotDesert"},
+          {"type": "name", "entry": "rwg_oasis"},
+          {"type": "name", "entry": "rwg_hotPlains"},
+          {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+        ]
+    },
+    "airShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 42,
+        "minHeight": 32,
+        "maxHeight": 58,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "rwg_plains"},
+            {"type": "name", "entry": "rwg_jungle"},
+            {"type": "name", "entry": "rwg_hotPlains"},
+            {"type": "name", "entry": "rwg_coldPlains"},
+            {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+        ]
+    },
+    "ordoShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 42,
+        "minHeight": 32,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+          {"type": "name", "entry": "rwg_snowDesert"},
+          {"type": "name", "entry": "rwg_snowForest"},
+          {"type": "name", "entry": "rwg_coldPlains"},
+          {"type": "name", "entry": "rwg_coldForest"},
+          {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+          -1,
+          1,
+          7,
+          -100,
+          -37,
+          -19,
+          -42
+      ]
+    },
+    "waterShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 42,
+        "minHeight": 32,
+        "maxHeight": 58,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+          {"type": "name", "entry": "rwg_snowDesert"},
+          {"type": "name", "entry": "rwg_snowForest"},
+          {"type": "name", "entry": "rwg_tropical"},
+          {"type": "name", "entry": "rwg_oasis"},
+          {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+          -1,
+          1,
+          7,
+          -100,
+          -37,
+          -19,
+          -42
+        ]
+    },
+    "earthShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 42,
+        "minHeight": 32,
+        "maxHeight": 58,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+          {"type": "name", "entry": "rwg_snowForest"},
+          {"type": "name", "entry": "rwg_coldForest"},
+          {"type": "name", "entry": "rwg_hotForest"},
+          {"type": "name", "entry": "rwg_tropical"},
+          {"type": "name", "entry": "rwg_redwood"},
+          {"type": "name", "entry": "rwg_jungle"},
+          {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+          -1,
+          1,
+          7,
+          -100,
+          -37,
+          -19,
+          -42
+        ]
+    },
+    "entropyShardMain": {
+        "template": "fractal",
+        "sparse": false,
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": [
+          {"name": "minecraft:stone"},
+          {"name": "chisel:marble"}
+        ],
+        "clusterSize": 5,
+        "numClusters": 10,
+        "chunkChance": 42,
+        "minHeight": 32,
+        "maxHeight": 58,
+        "veinHeight": 4,
+        "veinDiameter": 12,
+        "verticalDensity": 90,
+        "horizontalDensity": 80,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+          {"type": "name", "entry": "rwg_snowDesert"},
+          {"type": "name", "entry": "rwg_coldPlains"},
+          {"type": "name", "entry": "rwg_coldForest"},
+          {"type": "name", "entry": "rwg_hotDesert"},
+          {"type": "name", "entry": "Magical Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+          -1,
+          1,
+          7,
+          -100,
+          -37,
+          -19,
+          -42
+        ]
+    },
+    "Teslatite": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "bluepower:teslatite_ore", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 7,
+      "chunkChance": 52,
+      "minHeight": 3,
+      "maxHeight": 20,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Amethyst": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "bluepower:amethyst_ore", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 7,
+      "chunkChance": 52,
+      "minHeight": 3,
+      "maxHeight": 20,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Tungsten": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "bluepower:tungsten_ore", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 60,
+      "minHeight": 16,
+      "maxHeight": 20,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Manganese": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "Metallurgy:base.ore", "metadata": 2},
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 38,
+      "minHeight": 28,
+      "maxHeight": 45,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Thorium": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "Femtocraft:BlockOreThorium", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 52,
+      "minHeight": 16,
+      "maxHeight": 45,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Farenite": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "Femtocraft:BlockOreFarenite", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 52,
+      "minHeight": 16,
+      "maxHeight": 45,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Titanium": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "Femtocraft:BlockOreTitanium", "metadata": 0},
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 526,
+      "minHeight": 16,
+      "maxHeight": 45,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "Platinum": {
+      "template": "fractal",
+      "sparse": false,
+      "block": {"name": "Femtocraft:BlockOrePlatinum", "metadata": 0},
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 10,
+      "chunkChance": 56,
+      "minHeight": 16,
+      "maxHeight": 45,
+      "veinHeight": 4,
+      "veinDiameter": 12,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "deepiron": {
+      "template": "fractal",
+      "sparse": false,
+      "block": "iron_ore",
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 24,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "iron ferrous": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "minecraft:iron_ore", "weight": 80},
+          {"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 20}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 32,
+      "minHeight": 3,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "deepcoal": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "minecraft:coal_ore", "weight": 97},
+          {"name": "minecraft:diamond_ore", "weight": 3}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 16,
+      "minHeight": 3,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "goldcopper": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "minecraft:gold_ore", "weight": 20},
+          {"name": "ThermalFoundation:Ore", "metadata": 0, "weight": 80}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 18,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "tin iron": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "minecraft:iron_ore", "metadata": 0, "weight": 30},
+          {"name": "ThermalFoundation:Ore", "metadata": 1, "weight": 70}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 26,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "deepgoldiron": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "minecraft:iron_ore", "metadata": 0, "weight": 70},
+          {"name": "minecraft:gold_ore", "metadata": 0, "weight": 30}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 30,
+      "minHeight": 3,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    }
+}

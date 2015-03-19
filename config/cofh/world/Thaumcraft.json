@@ -1,0 +1,124 @@
+{
+    "airShardSub": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 110,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "fireShardSub": {
+       "template": "uniform",
+       "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+       "material": "minecraft:stone",
+       "clusterSize": 60,
+       "numClusters": 1,
+       "chunkChance": 110,
+       "minHeight": 20,
+       "maxHeight": 60,
+       "retrogen": "true",
+       "biomeRestriction": "none",
+       "biomes": [
+           "all"
+       ],
+       "dimensionRestriction": "blacklist",
+       "dimensions": [
+           -1,
+           7,
+           66,
+           1
+       ]
+    },
+    "ordoShardSub": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 110,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "waterShardSub": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 110,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "earthShardSub": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 90,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "entropyShardSub": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "chunkChance": 110,
+        "minHeight": 20,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

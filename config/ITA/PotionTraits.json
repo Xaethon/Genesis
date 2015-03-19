@@ -1,0 +1,13 @@
+[
+  {
+    "potionName": "potion.nightVision",
+    "duration": 600,
+    "potency": 0,
+    "dimensionBlacklist": [],
+    "minWeightForAlwaysActive": 5,
+    "randActivationFrequency": 5,
+    "weightFrequencyImpact": "^2",
+    "weightDurationImpact": "*1",
+    "name": "Night Vision"
+  }
+]

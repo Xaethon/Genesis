@@ -1,0 +1,8 @@
+[
+  {
+    "damageSourceType": "fall",
+    "protectionPerWeight": 5,
+    "weightImpact": "^2",
+    "name": "Fall Protection"
+  }
+]

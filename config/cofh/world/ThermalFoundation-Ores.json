@@ -1,0 +1,196 @@
+{
+  "copper": {
+    "template": "fractal",
+    "sparse": false,
+    "block": {"name": "ThermalFoundation:Ore", "metadata": 0},
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 24,
+    "minHeight": 26,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "tin": {
+    "template": "fractal",
+    "sparse": false,
+    "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 24,
+    "minHeight": 32,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "silver": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 80},
+      {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 20}
+    ],
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 24,
+    "minHeight": 26,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "lead": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 20},
+      {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 80}
+    ],
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 24,
+    "minHeight": 16,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "ferrous": {
+    "template": "fractal",
+    "sparse": false,
+    "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 30,
+    "minHeight": 32,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  },
+  "deepsilver": {
+    "template": "fractal",
+    "sparse": false,
+    "block": [
+      {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 80},
+      {"name": "ThermalFoundation:Ore", "metadata": 1, "weight": 20}
+    ],
+    "material": [
+      {"name": "minecraft:stone"},
+      {"name": "chisel:marble"}
+    ],
+    "clusterSize": 5,
+    "numClusters": 12,
+    "chunkChance": 26,
+    "minHeight": 16,
+    "maxHeight": 58,
+    "veinHeight": 4,
+    "veinDiameter": 12,
+    "verticalDensity": 90,
+    "horizontalDensity": 80,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1,
+      7,
+      -100,
+      -37,
+      -19,
+      -42
+    ]
+  }
+}

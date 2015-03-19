@@ -1,0 +1,25 @@
+{
+  "clay": {
+    "template": "underwater",
+    "generator": "plate",
+    "block": "minecraft:clay",
+    "material": [
+      {"name": "minecraft:sand"},
+      {"name": "minecraft:dirt"}
+    ],
+    "clusterSize": 4,
+    "numClusters": 1,
+    "chunkChance": 5,
+    "minHeight": 50,
+    "maxHeight": 80,
+    "sizeVariance": 4,
+    "height": 1,
+    "slim": true,
+    "followTerrain": true,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "none",
+    "dimensions": []
+  }
+}

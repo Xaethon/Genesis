@@ -1,0 +1,483 @@
+[
+  {
+    "identifier": "ingotIron",
+    "friendlyName": "Iron",
+    "hexColor": "#D8D8D8",
+    "protection": 2.5,
+    "enchantability": 9,
+    "speed": 1.0,
+    "durability": 36,
+    "comment": "Vanilla values",
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotGold",
+    "friendlyName": "Gold",
+    "hexColor": "#EAEE57",
+    "protection": 1.83,
+    "enchantability": 25,
+    "speed": 0.8,
+    "durability": 17,
+    "comment": "Vanilla values (except for speed)",
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "gemDiamond",
+    "friendlyName": "Diamond",
+    "hexColor": "#8CF4E2",
+    "protection": 3.33,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 80,
+    "comment": "Vanilla values",
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "dyeLime",
+    "friendlyName": "Lime",
+    "hexColor": "#7FCC19",
+    "protection": 0.0,
+    "enchantability": 0,
+    "speed": 1.0,
+    "durability": 5,
+    "comment": "For testing only",
+    "invalidTypes": [
+      3,
+      1,
+      2
+    ],
+    "traits": {
+      "Night Vision": 1.0
+    }
+  },
+  {
+    "identifier": "dyeYellow",
+    "friendlyName": "Yellow",
+    "hexColor": "#E5E533",
+    "protection": 0.0,
+    "enchantability": 0,
+    "speed": 1.0,
+    "durability": 5,
+    "comment": "For testing only",
+    "invalidTypes": [
+      0,
+      1,
+      2
+    ],
+    "traits": {
+      "Fall Protection": 1.0
+    }
+  },
+  {
+    "identifier": "ingotNickel",
+    "friendlyName": "Nickel",
+    "hexColor": "#E0D495",
+    "protection": 1.5,
+    "enchantability": 30,
+    "speed": 1.0,
+    "durability": 10,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotSilver",
+    "friendlyName": "Silver",
+    "hexColor": "#A5BCC3",
+    "protection": 2.0,
+    "enchantability": 23,
+    "speed": 0.9,
+    "durability": 16,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotLead",
+    "friendlyName": "Lead",
+    "hexColor": "#ABABCF",
+    "protection": 3.6,
+    "enchantability": 3,
+    "speed": 0.0,
+    "durability": 5,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotCopper",
+    "friendlyName": "Copper",
+    "hexColor": "#FFB262",
+    "protection": 2.7,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 28,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotTin",
+    "friendlyName": "Tin",
+    "hexColor": "#CFD7D7",
+    "protection": 2.9,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 23,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotBronze",
+    "friendlyName": "Bronze",
+    "hexColor": "#FC5D2D",
+    "protection": 3.0,
+    "enchantability": 11,
+    "speed": 1.0,
+    "durability": 30,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotSteel",
+    "friendlyName": "Steel",
+    "hexColor": "#898989",
+    "protection": 3.8,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 40,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotRefinedGlowstone",
+    "friendlyName": "Refined Glowstone",
+    "hexColor": "#FFFF0F",
+    "protection": 3.5,
+    "enchantability": 18,
+    "speed": 1.3,
+    "durability": 9,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotRefinedObsidian",
+    "friendlyName": "Refined Obsidian",
+    "hexColor": "#1E0059",
+    "protection": 4.1,
+    "enchantability": 40,
+    "speed": 1.0,
+    "durability": 120,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotManyullyn",
+    "friendlyName": "Manyullyn",
+    "hexColor": "#A97DE0",
+    "protection": 4.1,
+    "enchantability": 15,
+    "speed": 0.0,
+    "durability": 70,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotArdite",
+    "friendlyName": "Ardite",
+    "hexColor": "#F48A00",
+    "protection": 4.0,
+    "enchantability": 20,
+    "speed": 1.8,
+    "durability": 50,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotCobalt",
+    "friendlyName": "Cobalt",
+    "hexColor": "#2376DD",
+    "protection": 4.0,
+    "enchantability": 25,
+    "speed": 0.9,
+    "durability": 60,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotMeatRaw",
+    "friendlyName": "Meat Raw",
+    "hexColor": "#CD8B7D",
+    "protection": 0.3,
+    "enchantability": 3,
+    "speed": 1.0,
+    "durability": 5,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotMeat",
+    "friendlyName": "Meat",
+    "hexColor": "#6E3F23",
+    "protection": 0.5,
+    "enchantability": 5,
+    "speed": 1.0,
+    "durability": 8,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotAluminiumBrass",
+    "friendlyName": "Aluminium Brass",
+    "hexColor": "#F0D467",
+    "protection": 2.7,
+    "enchantability": 30,
+    "speed": 1.0,
+    "durability": 23,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotAlumite",
+    "friendlyName": "Alumite",
+    "hexColor": "#E39BD3",
+    "protection": 3.0,
+    "enchantability": 10,
+    "speed": 0.9,
+    "durability": 35,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotAluminum",
+    "friendlyName": "Aluminum",
+    "hexColor": "#C5C5C5",
+    "protection": 2.4,
+    "enchantability": 12,
+    "speed": 1.0,
+    "durability": 25,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotElectrumFlux",
+    "friendlyName": "Electrum Flux",
+    "hexColor": "#F0F589",
+    "protection": 3.5,
+    "enchantability": 35,
+    "speed": 1.0,
+    "durability": 45,
+    "comment": "Balanced against redstone arsenal",
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotSignalum",
+    "friendlyName": "Signalum",
+    "hexColor": "#FF9F1A",
+    "protection": 3.0,
+    "enchantability": 12,
+    "speed": 1.0,
+    "durability": 40,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotInvar",
+    "friendlyName": "Invar",
+    "hexColor": "#DDE2E0",
+    "protection": 2.8,
+    "enchantability": 14,
+    "speed": 1.0,
+    "durability": 35,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotEnderium",
+    "friendlyName": "Enderium",
+    "hexColor": "#107272",
+    "protection": 4.5,
+    "enchantability": 20,
+    "speed": 0.9,
+    "durability": 50,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotLumium",
+    "friendlyName": "Lumium",
+    "hexColor": "#D5BF6D",
+    "protection": 0.9,
+    "enchantability": 20,
+    "speed": 2.0,
+    "durability": 20,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotElectrum",
+    "friendlyName": "Electrum",
+    "hexColor": "#FDF488",
+    "protection": 2.8,
+    "enchantability": 35,
+    "speed": 0.7,
+    "durability": 15,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotObsidian",
+    "friendlyName": "Obsidian",
+    "hexColor": "#8F60D4",
+    "protection": 0.5,
+    "enchantability": 5,
+    "speed": 1.0,
+    "durability": 80,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotMithril",
+    "friendlyName": "Mithril",
+    "hexColor": "#88D8FF",
+    "protection": 2.0,
+    "enchantability": 50,
+    "speed": 0.9,
+    "durability": 10,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotPlatinum",
+    "friendlyName": "Platinum",
+    "hexColor": "#C7EEFF",
+    "protection": 2.5,
+    "enchantability": 23,
+    "speed": 1.0,
+    "durability": 10,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotThaumium",
+    "friendlyName": "Thaumium",
+    "hexColor": "#7A6AAE",
+    "protection": 2.6,
+    "enchantability": 25,
+    "speed": 1.0,
+    "durability": 30,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotPigIron",
+    "friendlyName": "Pig Iron",
+    "hexColor": "#F0A8A4",
+    "protection": 1.3,
+    "enchantability": 9,
+    "speed": 1.05,
+    "durability": 40,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotVoid",
+    "friendlyName": "Void",
+    "hexColor": "#200D36",
+    "protection": 4.0,
+    "enchantability": 25,
+    "speed": 1.0,
+    "durability": 50,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotUnstable",
+    "friendlyName": "Unstable",
+    "hexColor": "#737372",
+    "protection": 0.0,
+    "enchantability": 25,
+    "speed": 1.0,
+    "durability": 500,
+    "comment": "the irony, unstable ingots form the most stable(durable) armor",
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotYellorium",
+    "friendlyName": "Yellorium",
+    "hexColor": "#D9DB5C",
+    "protection": 1.0,
+    "enchantability": 5,
+    "speed": 0.7,
+    "durability": 21,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotBlutonium",
+    "friendlyName": "Blutonium",
+    "hexColor": "#4642D6",
+    "protection": 2.0,
+    "enchantability": 7,
+    "speed": 0.8,
+    "durability": 18,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotCyanite",
+    "friendlyName": "Cyanite",
+    "hexColor": "#5CAFDB",
+    "protection": 0.7,
+    "enchantability": 4,
+    "speed": 0.6,
+    "durability": 19,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotOsmium",
+    "friendlyName": "Osmium",
+    "hexColor": "#8095A9",
+    "protection": 2.3,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 1,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotElvenElementium",
+    "friendlyName": "Elven Elementium",
+    "hexColor": "#FACAFC",
+    "protection": 3.2,
+    "enchantability": 28,
+    "speed": 0.7,
+    "durability": 60,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotTerrasteel",
+    "friendlyName": "Terrasteel",
+    "hexColor": "#90E764",
+    "protection": 3.5,
+    "enchantability": 25,
+    "speed": 1.0,
+    "durability": 70,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotManasteel",
+    "friendlyName": "Manasteel",
+    "hexColor": "#CAEAFD",
+    "protection": 2.7,
+    "enchantability": 18,
+    "speed": 1.0,
+    "durability": 45,
+    "invalidTypes": [],
+    "traits": {}
+  }
+]
