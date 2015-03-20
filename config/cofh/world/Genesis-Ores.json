@@ -130,8 +130,8 @@
       "template": "fractal",
       "sparse": false,
       "block": [
-          {"name": "Thaumcraft:blockCustomOre", "metadata": 0, "weight": 30},
-          {"name": "Thaumcraft:blockCustomOre", "metadata": 7, "weight": 20}
+          {"name": "Thaumcraft:blockCustomOre", "metadata": 0, "weight": 60},
+          {"name": "Thaumcraft:blockCustomOre", "metadata": 7, "weight": 40}
       ],
       "material": [
         {"name": "minecraft:stone"},
@@ -571,7 +571,7 @@
       "block": {"name": "Femtocraft:BlockOreTitanium", "metadata": 0},
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 526,
+      "chunkChance": 52,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -633,7 +633,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 16,
-      "chunkChance": 24,
+      "chunkChance": 20,
       "minHeight": 16,
       "maxHeight": 58,
       "veinHeight": 4,
@@ -667,7 +667,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 16,
-      "chunkChance": 32,
+      "chunkChance": 28,
       "minHeight": 3,
       "maxHeight": 58,
       "veinHeight": 4,
@@ -803,7 +803,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 16,
-      "chunkChance": 30,
+      "chunkChance": 24,
       "minHeight": 3,
       "maxHeight": 58,
       "veinHeight": 4,
@@ -823,5 +823,30 @@
         -19,
         -42
       ]
+    },
+    "airShardSub": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 24,
+        "minHeight": 28,
+        "maxHeight": 36,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+        ]
     }
 }
