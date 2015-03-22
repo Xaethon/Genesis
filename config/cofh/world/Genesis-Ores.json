@@ -394,7 +394,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 7,
-      "chunkChance": 52,
+      "chunkChance": 30,
       "minHeight": 3,
       "maxHeight": 20,
       "veinHeight": 4,
@@ -425,7 +425,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 7,
-      "chunkChance": 52,
+      "chunkChance": 30,
       "minHeight": 3,
       "maxHeight": 20,
       "veinHeight": 4,
@@ -456,7 +456,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 60,
+      "chunkChance": 36,
       "minHeight": 16,
       "maxHeight": 20,
       "veinHeight": 4,
@@ -483,7 +483,7 @@
       "block": {"name": "Metallurgy:base.ore", "metadata": 2},
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 38,
+      "chunkChance": 32,
       "minHeight": 28,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -513,7 +513,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 52,
+      "chunkChance": 42,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -544,7 +544,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 52,
+      "chunkChance": 42,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -571,7 +571,7 @@
       "block": {"name": "Femtocraft:BlockOreTitanium", "metadata": 0},
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 52,
+      "chunkChance": 42,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -602,7 +602,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 56,
+      "chunkChance": 42,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -824,7 +824,7 @@
         -42
       ]
     },
-    "airShardSub": {
+    "aluminium": {
         "template": "uniform",
         "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
         "material": "minecraft:stone",
@@ -848,5 +848,73 @@
             -19,
             -42
         ]
+    },
+    "tesla amethyst": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "bluepower:teslatite_ore", "metadata": 0, "weight": 50},
+          {"name": "bluepower:amethyst_ore", "metadata": 0, "weight": 50}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 26,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "copper osmium": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "ThermalFoundation:Ore", "metadata": 0, "weight": 50},
+          {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 50}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 26,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
     }
 }

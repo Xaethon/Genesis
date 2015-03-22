@@ -1,4 +1,4 @@
-#Mekanism Digital Miner Fix
+ #Mekanism Digital Miner Fix
 
 # Digital Miner
 recipes.removeShaped(<Mekanism:MachineBlock:4>, [[<Mekanism:AtomicAlloy>, <ore:circuitBasic>, <Mekanism:AtomicAlloy>], [<Mekanism:MachineBlock:15>, <Mekanism:Robit>, <Mekanism:MachineBlock:15>], [<Mekanism:TeleportationCore>, <Mekanism:BasicBlock:8>, <Mekanism:TeleportationCore>]]);
