@@ -151,22 +151,6 @@
             "description": "Science and magic. What could go wrong?"
         },
         {
-            "name": "Mine & Blade Battlegear 2 - Bullseye",
-            "version": "1.0.7.0",
-            "url": "packs/Genesis/files/mods/1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar",
-            "file": "1.7.10-MB_Battlegear2-Bullseye-1.0.7.0.jar",
-            "md5": "7a319a29f6fe7fe86a89922aaea5e010",
-            "download": "server",
-            "website": "http://www.curse.com/mc-mods/minecraft/mb-battlegear-2",
-            "authors": [
-                "nerd-boy",
-                "GotoLink",
-                "coolAlias"
-            ],
-            "type": "mods",
-            "description": "A WIP, open-source combat mod, focusing on groundbreaking features and balanced combat"
-        },
-        {
             "name": "Ars Magica 2",
             "version": "1.4.0.008",
             "url": "packs/Genesis/files/mods/1.7.10_AM2-1.4.0.008.jar",
@@ -571,10 +555,10 @@
         },
         {
             "name": "Ender IO",
-            "version": "1.7.10-2.2.8.349",
-            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.2.8.349.jar",
-            "file": "EnderIO-1.7.10-2.2.8.349.jar",
-            "md5": "1b64b4be1570077c5b3bec480cfa7f58",
+            "version": "1.7.10-2.2.8.364",
+            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.2.8.364.jar",
+            "file": "EnderIO-1.7.10-2.2.8.364.jar",
+            "md5": "f512b0b4de30e3db4a64454b40077829",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -601,10 +585,10 @@
         },
         {
             "name": "Ender Zoo",
-            "version": "1.7.10-1.0.9.18",
-            "url": "packs/Genesis/files/mods/EnderZoo-1.7.10-1.0.9.18.jar",
-            "file": "EnderZoo-1.7.10-1.0.9.18.jar",
-            "md5": "060564e736cfc0fbc034d74faf39d5d3",
+            "version": "1.8-1.1.24_beta",
+            "url": "packs/Genesis/files/mods/EnderZoo-1.8-1.1.24_beta.jar",
+            "file": "EnderZoo-1.8-1.1.24_beta.jar",
+            "md5": "7673964b5c461c8f529092b36a756920",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -787,10 +771,10 @@
         },
         {
             "name": "Garden Stuff",
-            "version": "1.4.0",
-            "url": "packs/Genesis/files/mods/GardenStuff-1.7.10-1.4.0.jar",
-            "file": "GardenStuff-1.7.10-1.4.0.jar",
-            "md5": "949a42bbc164291d5323aa1ec3b7b782",
+            "version": "1.5.3",
+            "url": "packs/Genesis/files/mods/GardenStuff-1.7.10-1.5.3.jar",
+            "file": "GardenStuff-1.7.10-1.5.3.jar",
+            "md5": "103943db165b4956d853e34305e23ce6",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-v-1-4-0-updated-mar-01-15",
             "type": "mods",
@@ -838,10 +822,10 @@
         },
         {
             "name": "IndustrialCraft 2",
-            "version": "2.2.695-experimental",
-            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.695-experimental.jar",
-            "file": "industrialcraft-2-2.2.695-experimental.jar",
-            "md5": "8163a51741965037bb3d21cdaabda2e0",
+            "version": "2.2.697-experimental",
+            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.697-experimental.jar",
+            "file": "industrialcraft-2-2.2.697-experimental.jar",
+            "md5": "88fc00e39f51aabb7d295f26c7ed5a5d",
             "download": "server",
             "website": "http://www.industrial-craft.net",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RHLW3YE3T848Q",
@@ -1009,10 +993,10 @@
         },
         {
             "name": "Mekanism",
-            "version": "7.1.2",
-            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-7.1.2.185.jar",
-            "file": "Mekanism-1.7.10-7.1.2.185.jar",
-            "md5": "d1a5ed2de7cd4d3ca802e4e015750359",
+            "version": "8.0.2",
+            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-8.0.2.201.jar",
+            "file": "Mekanism-1.7.10-8.0.2.201.jar",
+            "md5": "0b3464e1c648a86a8dc86684c7d6a290",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1024,10 +1008,10 @@
         },
         {
             "name": "MekanismGenerators",
-            "version": "7.1.2",
-            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-7.1.2.185.jar",
-            "file": "MekanismGenerators-1.7.10-7.1.2.185.jar",
-            "md5": "cf297154c204ed8d67b05ef79e8530b4",
+            "version": "8.0.2",
+            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-8.0.2.201.jar",
+            "file": "MekanismGenerators-1.7.10-8.0.2.201.jar",
+            "md5": "b95af9cd5fe93f65646363f125fa78b2",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1039,10 +1023,10 @@
         },
         {
             "name": "MekanismTools",
-            "version": "7.1.2",
-            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-7.1.2.185.jar",
-            "file": "MekanismTools-1.7.10-7.1.2.185.jar",
-            "md5": "f2bd830394c130049feeec93c09c181d",
+            "version": "8.0.2",
+            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-8.0.2.201.jar",
+            "file": "MekanismTools-1.7.10-8.0.2.201.jar",
+            "md5": "b60203dcc2b06882f0841b1b94c36457",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1098,10 +1082,10 @@
         },
         {
             "name": "MineChem",
-            "version": "1.7.10-5.0.5.385",
-            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.385.jar",
-            "file": "Minechem-1.7.10-5.0.5.385.jar",
-            "md5": "77bb6a822b3bf37e82a14cfa4e5c5392",
+            "version": "1.7.10-5.0.5.394",
+            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.394.jar",
+            "file": "Minechem-1.7.10-5.0.5.394.jar",
+            "md5": "4eee485bf71aaad18fc52d4bafd02bb3",
             "download": "server",
             "website": "http://universalelectricity.com/minechem",
             "authors": [
@@ -1384,10 +1368,10 @@
         },
         {
             "name": "RFTools",
-            "version": "2.64",
-            "url": "packs/Genesis/files/mods/rftools-2.64.jar",
-            "file": "rftools-2.64.jar",
-            "md5": "470340443b93fa1a52aff23a60d3a966",
+            "version": "2.71",
+            "url": "packs/Genesis/files/mods/rftools-2.71.jar",
+            "file": "rftools-2.71.jar",
+            "md5": "1ed50c564616beccd349233da0275738",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto",
             "authors": [
@@ -1672,20 +1656,6 @@
             "description": "A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool part tooltips."
         },
         {
-            "name": "Tinkers' Defense",
-            "version": "1.0",
-            "url": "packs/Genesis/files/mods/Tinkers-Defense-1.2.1.jar",
-            "file": "Tinkers-Defense-1.2.1.jar",
-            "md5": "e5bf0681fcb67df5d89e1f8c54c4ccd5",
-            "download": "server",
-            "website": "http://www.curse.com/mc-mods/minecraft/226910-tinkers-defense",
-            "authors": [
-                "Sir Lance"
-            ],
-            "type": "mods",
-            "description": "An inbetween mod for Tinkers Construct and Mine and Blade 2 that adds new shields made using tinker parts"
-        },
-        {
             "name": "Translocator",
             "version": "1.1.1.14",
             "url": "packs/Genesis/files/mods/Translocator-1.7.10-1.1.1.14-universal.jar",
@@ -1772,10 +1742,10 @@
         },
         {
             "name": "WAILA Plugins",
-            "version": "MC1.7.10-0.0.1-12",
-            "url": "packs/Genesis/files/mods/WAILAPlugins-MC1.7.10-0.0.1-12.jar",
-            "file": "WAILAPlugins-MC1.7.10-0.0.1-12.jar",
-            "md5": "32ed2fd1e34cf579bc20dc7cc11b09ae",
+            "version": "MC1.7.10-0.0.1-14",
+            "url": "packs/Genesis/files/mods/WAILAPlugins-MC1.7.10-0.0.1-14.jar",
+            "file": "WAILAPlugins-MC1.7.10-0.0.1-14.jar",
+            "md5": "f9ccbb6e67e270842e40748cff9695f1",
             "download": "server",
             "website": "http://ci.tterrag.com",
             "authors": [
