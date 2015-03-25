@@ -602,7 +602,7 @@
       ],
       "clusterSize": 5,
       "numClusters": 10,
-      "chunkChance": 42,
+      "chunkChance": 26,
       "minHeight": 16,
       "maxHeight": 45,
       "veinHeight": 4,
@@ -692,8 +692,8 @@
       "template": "fractal",
       "sparse": false,
       "block": [
-          {"name": "minecraft:coal_ore", "weight": 97},
-          {"name": "minecraft:diamond_ore", "weight": 3}
+          {"name": "minecraft:coal_ore", "weight": 95},
+          {"name": "minecraft:diamond_ore", "weight": 5}
       ],
       "material": [
         {"name": "minecraft:stone"},
@@ -897,6 +897,74 @@
       "clusterSize": 5,
       "numClusters": 16,
       "chunkChance": 26,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "tesla diamond": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "bluepower:teslatite_ore", "metadata": 0, "weight": 90},
+          {"name": "minecraft:diamond_ore", "metadata": 0, "weight": 10}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 30,
+      "minHeight": 16,
+      "maxHeight": 58,
+      "veinHeight": 4,
+      "veinDiameter": 14,
+      "verticalDensity": 90,
+      "horizontalDensity": 80,
+      "retrogen": "true",
+      "biomeRestriction": "none",
+      "biomes": [],
+      "dimensionRestriction": "blacklist",
+      "dimensions": [
+        -1,
+        1,
+        7,
+        -100,
+        -37,
+        -19,
+        -42
+      ]
+    },
+    "platinum osmium": {
+      "template": "fractal",
+      "sparse": false,
+      "block": [
+          {"name": "Femtocraft:BlockOrePlatinum", "metadata": 0, "weight": 35},
+          {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 65}
+      ],
+      "material": [
+        {"name": "minecraft:stone"},
+        {"name": "chisel:marble"}
+      ],
+      "clusterSize": 5,
+      "numClusters": 16,
+      "chunkChance": 30,
       "minHeight": 16,
       "maxHeight": 58,
       "veinHeight": 4,

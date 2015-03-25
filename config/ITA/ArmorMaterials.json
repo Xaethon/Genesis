@@ -479,5 +479,38 @@
     "durability": 45,
     "invalidTypes": [],
     "traits": {}
+  },
+  {
+    "identifier": "ingotTartarite",
+    "friendlyName": "Tartarite",
+    "hexColor": "#D4521A",
+    "protection": 4.0,
+    "enchantability": 30,
+    "speed": 0.8,
+    "durability": 80,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotThorium",
+    "friendlyName": "Thorium",
+    "hexColor": "#626262",
+    "protection": 3.3,
+    "enchantability": 25,
+    "speed": 0.8,
+    "durability": 120,
+    "invalidTypes": [],
+    "traits": {}
+  },
+  {
+    "identifier": "ingotTungsten",
+    "friendlyName": "Tungsten",
+    "hexColor": "#626262",
+    "protection": 3.5,
+    "enchantability": 10,
+    "speed": 1.0,
+    "durability": 80,
+    "invalidTypes": [],
+    "traits": {}
   }
 ]

@@ -21,7 +21,6 @@ Found creative tab: ComputerCraft
 Found creative tab: Eln
 Found creative tab: EnderIO
 Found creative tab: decorations
-Found creative tab: EnderZoo
 Found creative tab: buildingBlocks
 Found creative tab: extraUtil
 Found creative tab: combat
@@ -73,16 +72,17 @@ Found creative tab: thermalexpansion.creativeTabFlorbs
 Found creative tab: thermalfoundation.creativeTab
 Found creative tab: thermalfoundation.creativeTabArmor
 Found creative tab: thermalfoundation.creativeTabTools
+Found creative tab: thermalsmeltery.creativeTabItems
 Found creative tab: travellersgear
 Found creative tab: twilightForest
 Found creative tab: witchinggadgets
 Found creative tab: ztones
 Found creative tab: bdew.ae2stuff
+Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: Ars Magica Items
 Found creative tab: Ars Magica Blocks
-Found creative tab: Battlegear2
 Found creative tab: bluepower:machines
 Found creative tab: bluepower:tools
 Found creative tab: bluepower:blocks
@@ -96,10 +96,10 @@ Found creative tab: tabOtherChiselBlocks
 Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
 Found creative tab: enhancedportals
+Found creative tab: erebus.plants
 Found creative tab: erebus.block
 Found creative tab: erebus.special
 Found creative tab: erebus.gear
-Found creative tab: erebus.plants
 Found creative tab: erebus.item
 Found creative tab: Extra_Cells
 Found creative tab: tabHarvestCraft2
@@ -119,7 +119,6 @@ Found creative tab: RfToolsDimlets
 Found creative tab: tabSimplyJetpacks
 Found creative tab: Technomancy
 Found creative tab: ThaumicEnergistics
-Found creative tab: tabName
 Found creative tab: tabWitchery
 Setting up ForgeMicroblock Library...
 Setting up ExtraUtilities Library...
@@ -177,14 +176,14 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy_13
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Decoration.BrickFancy_13
+getRandomMaterial called. Returned: tile.BasicBlock_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.BasicBlock_3
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy_5
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy_5
+getRandomMaterial called. Returned: tile.BasicBlock_2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.BasicBlock_2
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
@@ -317,9 +316,9 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2625
+getNumberOfTypes called. Returned: 2626
 The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
-override called. Params: appliedenergistics2, item.ItemFacade, 388
+override called. Params: appliedenergistics2, item.ItemFacade, 494
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
