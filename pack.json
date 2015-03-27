@@ -1,19 +1,11 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.9",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
     },
     "extraArguments": {
         "arguments": "--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker"
-    },
-    "deletes": {
-        "folders": [
-            {
-                "base": "root",
-                "target": "scripts"
-            }
-        ]
     },
     "libraries": [
         {
@@ -354,10 +346,10 @@
         },
         {
             "name": "Blue Power",
-            "version": "0.2.918",
-            "url": "packs/Genesis/files/mods/BluePower-1.7.10-0.2.918-universal.jar",
-            "file": "BluePower-1.7.10-0.2.918-universal.jar",
-            "md5": "fe4ad688603126dd1c0ca428310d068d",
+            "version": "0.1.766",
+            "url": "packs/Genesis/files/mods/BluePower-1.7.10-0.1.766-universal.jar",
+            "file": "BluePower-1.7.10-0.1.766-universal.jar",
+            "md5": "7f0e60dcfb30b112912db3e8a4db39ad",
             "download": "server",
             "website": "http://minecraft.curseforge.com/mc-mods/223099-blue-power",
             "authors": [
@@ -372,10 +364,10 @@
         },
         {
             "name": "Botania",
-            "version": "r1.5-170",
-            "url": "packs/Genesis/files/mods/Botania r1.5-170.jar",
-            "file": "Botania r1.5-170.jar",
-            "md5": "2f33d96781d0cbcad329c485a4ea5986",
+            "version": "r1.5-172",
+            "url": "packs/Genesis/files/mods/Botania r1.5-172.jar",
+            "file": "Botania r1.5-172.jar",
+            "md5": "82c217f99286e05318237c833957f102",
             "download": "server",
             "website": "http://www.vazkii.us",
             "authors": [
@@ -416,10 +408,10 @@
         },
         {
             "name": "Chisel 2",
-            "version": "2.3.3.28",
-            "url": "packs/Genesis/files/mods/Chisel2-2.3.3.28.jar",
-            "file": "Chisel2-2.3.3.28.jar",
-            "md5": "ee72c2984b68791158fc14ad79c7743f",
+            "version": "2.3.8.35",
+            "url": "packs/Genesis/files/mods/Chisel2-2.3.8.35.jar",
+            "file": "Chisel2-2.3.8.35.jar",
+            "md5": "b3a02cb38128206d76364dae0b46c4c8",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/thread/1294901",
             "authors": [
@@ -585,10 +577,10 @@
         },
         {
             "name": "Ender Zoo",
-            "version": "1.8-1.1.24_beta",
-            "url": "packs/Genesis/files/mods/EnderZoo-1.8-1.1.24_beta.jar",
-            "file": "EnderZoo-1.8-1.1.24_beta.jar",
-            "md5": "7673964b5c461c8f529092b36a756920",
+            "version": "1.7.10-1.0.9.18",
+            "url": "packs/Genesis/files/mods/EnderZoo-1.7.10-1.0.9.18.jar",
+            "file": "EnderZoo-1.7.10-1.0.9.18.jar",
+            "md5": "060564e736cfc0fbc034d74faf39d5d3",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -702,10 +694,10 @@
         },
         {
             "name": "Minecraft Forge",
-            "version": "10.13.2.1291",
-            "url": "packs/Genesis/files/mods/forge-1.7.10-10.13.2.1291-universal.jar",
-            "file": "forge-1.7.10-10.13.2.1291-universal.jar",
-            "md5": "e71e88c744588fdad48d3b3beb4935fc",
+            "version": "10.13.2.1342",
+            "url": "packs/Genesis/files/mods/forge-1.7.10-10.13.2.1342-1.7.10-universal.jar",
+            "file": "forge-1.7.10-10.13.2.1342-1.7.10-universal.jar",
+            "md5": "38f2f64502476cf3925acd583908ab22",
             "download": "server",
             "website": "http://www.minecraftforge.net/forum/",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z5MLLA62HSUM2",
@@ -737,11 +729,27 @@
             "description": "Open source library for facilitation of multiple functional parts in the one block space."
         },
         {
+            "name": "Galacticraft Core",
+            "version": "3.0.10",
+            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.10.300.jar",
+            "file": "GalacticraftCore-1.7-3.0.10.300.jar",
+            "md5": "99dcf0bc431ad14e4ae791c6d0dcf1ea",
+            "download": "server",
+            "website": "http://www.micdoodle8.com/",
+            "authors": [
+                "micdoodle8",
+                "radfast",
+                "fishtaco"
+            ],
+            "type": "mods",
+            "description": "An advanced space travel mod for Minecraft 1.7"
+        },
+        {
             "name": "Galacticraft Planets",
             "version": "3.0.10",
-            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.10.298.jar",
-            "file": "Galacticraft-Planets-1.7-3.0.10.298.jar",
-            "md5": "95a874870ed6c8ae875480f652e68c5a",
+            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.10.300.jar",
+            "file": "Galacticraft-Planets-1.7-3.0.10.300.jar",
+            "md5": "0a0da52c36503e6a0be2f09ea166ffa4",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -752,22 +760,6 @@
             ],
             "type": "mods",
             "description": "Planets addon for Galacticraft."
-        },
-        {
-            "name": "Galacticraft Core",
-            "version": "3.0.10",
-            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.10.298.jar",
-            "file": "GalacticraftCore-1.7-3.0.10.298.jar",
-            "md5": "250158da1f30f3a8093d9f89704c028a",
-            "download": "server",
-            "website": "http://www.micdoodle8.com/",
-            "authors": [
-                "micdoodle8",
-                "radfast",
-                "fishtaco"
-            ],
-            "type": "mods",
-            "description": "An advanced space travel mod for Minecraft 1.7"
         },
         {
             "name": "Garden Stuff",
@@ -822,10 +814,10 @@
         },
         {
             "name": "IndustrialCraft 2",
-            "version": "2.2.697-experimental",
-            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.697-experimental.jar",
-            "file": "industrialcraft-2-2.2.697-experimental.jar",
-            "md5": "88fc00e39f51aabb7d295f26c7ed5a5d",
+            "version": "2.2.703-experimental",
+            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.703-experimental.jar",
+            "file": "industrialcraft-2-2.2.703-experimental.jar",
+            "md5": "d18e26995241196f530210958ee3f965",
             "download": "server",
             "website": "http://www.industrial-craft.net",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RHLW3YE3T848Q",
@@ -948,10 +940,10 @@
         },
         {
             "name": "Malisis' Core",
-            "version": "1.7.10-0.11-b0",
-            "url": "packs/Genesis/files/mods/malisiscore-1.7.10-0.11.jar",
-            "file": "malisiscore-1.7.10-0.11.jar",
-            "md5": "d5850788170728521a6d96b6289141e0",
+            "version": "1.7.10-0.10.5-b0",
+            "url": "packs/Genesis/files/mods/malisiscore-1.7.10-0.10.5.jar",
+            "file": "malisiscore-1.7.10-0.10.5.jar",
+            "md5": "40fdd8c27c2837344e3dd4f56a64a48e",
             "download": "server",
             "website": "http://github.com/ordinastie/malisiscore",
             "authors": [
@@ -964,9 +956,9 @@
         {
             "name": "Malisis' Doors",
             "version": "1.7.10-1.4.3",
-            "url": "packs/Genesis/files/mods/malisisdoors-1.7.10-1.4.4.jar",
-            "file": "malisisdoors-1.7.10-1.4.4.jar",
-            "md5": "913eb09d620c11165142e4d57ccdc0a7",
+            "url": "packs/Genesis/files/mods/malisisdoors-1.7.10-1.4.3.jar",
+            "file": "malisisdoors-1.7.10-1.4.3.jar",
+            "md5": "9da5ac14c2db77b785dfdae5bfdc1b8a",
             "download": "server",
             "website": "http://github.com/ordinastie",
             "authors": [
@@ -1067,10 +1059,10 @@
         },
         {
             "name": "Micdoodle8 Core",
-            "version": "3.0.10.298",
-            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.10.298.jar",
-            "file": "MicdoodleCore-1.7-3.0.10.298.jar",
-            "md5": "b2f9c8fe668a6b97f0db9b5103274044",
+            "version": "3.0.10.300",
+            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.10.300.jar",
+            "file": "MicdoodleCore-1.7-3.0.10.300.jar",
+            "md5": "2add4129b59d3ef9ce98ca6da24b2e5d",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -1329,9 +1321,9 @@
         {
             "name": "QmunityLib",
             "version": "0.1.92",
-            "url": "packs/Genesis/files/mods/QmunityLib-1.7.10-0.1.92-universal.jar",
-            "file": "QmunityLib-1.7.10-0.1.92-universal.jar",
-            "md5": "3c5a64cb85888000c9e02ec4c407a6ad",
+            "url": "packs/Genesis/files/mods/QmunityLib-1.7.10-0.1.66-universal.jar",
+            "file": "QmunityLib-1.7.10-0.1.66-universal.jar",
+            "md5": "eb10f5607976dd89c879e9c1ba314154",
             "download": "server",
             "website": "http://www.curse.com/mc-mods/minecraft/224785-qmunitylib",
             "type": "mods",
@@ -1557,12 +1549,12 @@
         },
         {
             "name": "Thaumic Tinkerer",
-            "version": "2.5-1.7.10-162",
-            "url": "packs/Genesis/files/mods/ThaumicTinkerer-2.5-1.7.10-162.jar",
-            "file": "ThaumicTinkerer-2.5-1.7.10-162.jar",
-            "md5": "f66ae6a926e70af7f232c50877a68617",
+            "version": "2.5-1.7.10-474",
+            "url": "packs/Genesis/files/mods/ThaumicTinkerer-2.5-1.7.10-474.jar",
+            "file": "ThaumicTinkerer-2.5-1.7.10-474.jar",
+            "md5": "4cb7780a6dbb0b11bb28aabd1f738730",
             "download": "server",
-            "website": "http://www.minecraftforum.net/topic/1813058-",
+            "website": "http://minecraftforum.net/topic/1813058-",
             "authors": [
                 "pixlepix",
                 "nekosune"
@@ -1770,10 +1762,10 @@
         },
         {
             "name": "Witching Gadgets",
-            "version": "1.1.2",
-            "url": "packs/Genesis/files/mods/WitchingGadgets-1.7.10-1.1.2.jar",
-            "file": "WitchingGadgets-1.7.10-1.1.2.jar",
-            "md5": "236796b882220d9b20c7117a212df074",
+            "version": "1.1.3",
+            "url": "packs/Genesis/files/mods/WitchingGadgets-1.7.10-1.1.3.jar",
+            "file": "WitchingGadgets-1.7.10-1.1.3.jar",
+            "md5": "d82f7385559cbda2ca7e5f7d2d3d3e4e",
             "download": "server",
             "website": "http://www.curse.com/mc-mods/minecraft/228268-witching-gadgets",
             "authors": [

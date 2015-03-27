@@ -21,6 +21,7 @@ Found creative tab: ComputerCraft
 Found creative tab: Eln
 Found creative tab: EnderIO
 Found creative tab: decorations
+Found creative tab: EnderZoo
 Found creative tab: buildingBlocks
 Found creative tab: extraUtil
 Found creative tab: combat
@@ -83,11 +84,11 @@ Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: Ars Magica Items
 Found creative tab: Ars Magica Blocks
-Found creative tab: bluepower:machines
-Found creative tab: bluepower:tools
-Found creative tab: bluepower:blocks
-Found creative tab: bluepower:items
-Found creative tab: bluepower:lighting
+Found creative tab: tabBluePowerMachines
+Found creative tab: tabBluePowerTools
+Found creative tab: tabBluePowerBlocks
+Found creative tab: tabBluePowerItems
+Found creative tab: tabBluePowerLighting
 Found creative tab: tabFurniture
 Found creative tab: tabWoodChiselBlocks
 Found creative tab: tabModdedChiselBlocks
@@ -176,14 +177,14 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.BasicBlock_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.BasicBlock_3
+getRandomMaterial called. Returned: tile.Darkleaves1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves1
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.BasicBlock_2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.BasicBlock_2
+getRandomMaterial called. Returned: tile.BasicBlock_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.BasicBlock_3
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
@@ -316,9 +317,9 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2626
+getNumberOfTypes called. Returned: 2629
 The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
-override called. Params: appliedenergistics2, item.ItemFacade, 494
+override called. Params: appliedenergistics2, item.ItemFacade, 1485
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
