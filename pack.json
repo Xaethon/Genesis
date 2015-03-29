@@ -1,11 +1,19 @@
 {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
     },
     "extraArguments": {
         "arguments": "--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker"
+    },
+    "deletes": {
+        "folders": [
+            {
+                "base": "root",
+                "target": "scripts"
+            }
+        ]
     },
     "libraries": [
         {
@@ -215,10 +223,10 @@
         },
         {
             "name": "Applied Energistics 2",
-            "version": "rv2-beta-7",
-            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-7.jar",
-            "file": "appliedenergistics2-rv2-beta-7.jar",
-            "md5": "672c176ff277ee04fc1ae34df22fdadc",
+            "version": "rv2-beta-18",
+            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-18.jar",
+            "file": "appliedenergistics2-rv2-beta-18.jar",
+            "md5": "bd17276ce46d66d83b36a676221bfce4",
             "download": "server",
             "website": "http://ae2.ae-mod.info",
             "authors": [
@@ -507,6 +515,20 @@
             "description": "Commons Lib"
         },
         {
+            "name": "Custom Main Menu",
+            "version": "1.2",
+            "url": "packs/Genesis/files/mods/CustomMainMenu-MC1.7.10-1.2.jar",
+            "file": "CustomMainMenu-MC1.7.10-1.2.jar",
+            "md5": "cfd96b44fc6f8bd9dc4a181aad2acf52",
+            "download": "server",
+            "website": "http://www.curse.com/mc-mods/minecraft/226406-custom-main-menu",
+            "authors": [
+                "lumien"
+            ],
+            "type": "mods",
+            "description": "Allows you to edit the mainmenu using json"
+        },
+        {
             "name": "Decocraft",
             "version": "v1.12b_1.7.10",
             "url": "packs/Genesis/files/mods/Decocraft-v1.12b_1.7.10.jar",
@@ -666,10 +688,10 @@
         },
         {
             "name": "Femtocraft",
-            "version": "1.7.10-0.4.0-15-dev",
-            "url": "packs/Genesis/files/mods/femtocraft-1.7.10-0.4.0-15-dev.jar",
-            "file": "femtocraft-1.7.10-0.4.0-15-dev.jar",
-            "md5": "d5b12e5c6762bc6c4ba107fb61a76c3b",
+            "version": "1.7.10-0.4.1-16-dev",
+            "url": "packs/Genesis/files/mods/femtocraft-1.7.10-0.4.1-16-dev.jar",
+            "file": "femtocraft-1.7.10-0.4.1-16-dev.jar",
+            "md5": "708ea0d557fdf1a2ee123d61f4e8518c",
             "download": "server",
             "website": "http://femtocraft.blogspot.com",
             "authors": [
@@ -731,9 +753,9 @@
         {
             "name": "Galacticraft Core",
             "version": "3.0.10",
-            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.10.300.jar",
-            "file": "GalacticraftCore-1.7-3.0.10.300.jar",
-            "md5": "99dcf0bc431ad14e4ae791c6d0dcf1ea",
+            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.10.302.jar",
+            "file": "GalacticraftCore-1.7-3.0.10.302.jar",
+            "md5": "8249526331f3d8b84d0b01a83d2e7a76",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "authors": [
@@ -747,9 +769,9 @@
         {
             "name": "Galacticraft Planets",
             "version": "3.0.10",
-            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.10.300.jar",
-            "file": "Galacticraft-Planets-1.7-3.0.10.300.jar",
-            "md5": "0a0da52c36503e6a0be2f09ea166ffa4",
+            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.10.302.jar",
+            "file": "Galacticraft-Planets-1.7-3.0.10.302.jar",
+            "md5": "6db1939ec8d5f161b3c5194d6426f04b",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -913,10 +935,10 @@
         },
         {
             "name": "JABBA",
-            "version": "1.2.0a",
-            "url": "packs/Genesis/files/mods/Jabba-1.2.0a_1.7.10.jar",
-            "file": "Jabba-1.2.0a_1.7.10.jar",
-            "md5": "6ea95432de3a3b592a145ae573be469e",
+            "version": "1.2.1a",
+            "url": "packs/Genesis/files/mods/Jabba-1.2.1a_1.7.10.jar",
+            "file": "Jabba-1.2.1a_1.7.10.jar",
+            "md5": "4f5a214a8a0d1cc88420bd9eba0dec4d",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292942-1-7-2-1-6-4-jabba-1-1-3-just-another-better",
             "type": "mods",
@@ -985,10 +1007,10 @@
         },
         {
             "name": "Mekanism",
-            "version": "8.0.2",
-            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-8.0.2.201.jar",
-            "file": "Mekanism-1.7.10-8.0.2.201.jar",
-            "md5": "0b3464e1c648a86a8dc86684c7d6a290",
+            "version": "8.0.3",
+            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-8.0.3.203.jar",
+            "file": "Mekanism-1.7.10-8.0.3.203.jar",
+            "md5": "c700b396d9325407fe90a03a19881c33",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1000,10 +1022,10 @@
         },
         {
             "name": "MekanismGenerators",
-            "version": "8.0.2",
-            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-8.0.2.201.jar",
-            "file": "MekanismGenerators-1.7.10-8.0.2.201.jar",
-            "md5": "b95af9cd5fe93f65646363f125fa78b2",
+            "version": "8.0.3",
+            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-8.0.3.203.jar",
+            "file": "MekanismGenerators-1.7.10-8.0.3.203.jar",
+            "md5": "f4528a708e1e9f90d1169229b0d8a924",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1015,10 +1037,10 @@
         },
         {
             "name": "MekanismTools",
-            "version": "8.0.2",
-            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-8.0.2.201.jar",
-            "file": "MekanismTools-1.7.10-8.0.2.201.jar",
-            "md5": "b60203dcc2b06882f0841b1b94c36457",
+            "version": "8.0.3",
+            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-8.0.3.203.jar",
+            "file": "MekanismTools-1.7.10-8.0.3.203.jar",
+            "md5": "579ccbd2d7f766c6170b714ce7755a37",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1059,10 +1081,10 @@
         },
         {
             "name": "Micdoodle8 Core",
-            "version": "3.0.10.300",
-            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.10.300.jar",
-            "file": "MicdoodleCore-1.7-3.0.10.300.jar",
-            "md5": "2add4129b59d3ef9ce98ca6da24b2e5d",
+            "version": "3.0.10.302",
+            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.10.302.jar",
+            "file": "MicdoodleCore-1.7-3.0.10.302.jar",
+            "md5": "e9ba040ab5e3a447fc40b69cf41814fb",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -1243,6 +1265,23 @@
             "description": "Boring stuff for all that silly Open* mods"
         },
         {
+            "name": "OpenPeripheral Core",
+            "version": "1.7.10",
+            "url": "packs/Genesis/files/mods/OpenPeripheral-1.7.10-AIO-1.jar",
+            "file": "OpenPeripheral-1.7.10-AIO-1.jar",
+            "md5": "7d0d0427e5fb4527acd18bf6454ef775",
+            "download": "server",
+            "website": "http://openmods.info/",
+            "donation": "http://www.patreon.com/openmods",
+            "authors": [
+                "Mikeemoo",
+                "cybcaoyibo",
+                "SinZ"
+            ],
+            "type": "mods",
+            "description": "Converts many blocks into ComputerCraft peripherals!"
+        },
+        {
             "name": "Opis",
             "version": "1.2.3_1.7.10",
             "url": "packs/Genesis/files/mods/Opis-1.2.3_1.7.10.jar",
@@ -1399,20 +1438,6 @@
             ],
             "type": "mods",
             "description": "Redstone Flux jetpacks and more"
-        },
-        {
-            "name": "The Spice of Life",
-            "version": "1.2.3",
-            "url": "packs/Genesis/files/mods/SpiceOfLife-mc1.7.10-1.2.3.jar",
-            "file": "SpiceOfLife-mc1.7.10-1.2.3.jar",
-            "md5": "71af351f6f983d56b620d87d91b426f5",
-            "download": "server",
-            "website": "http://www.minecraftforum.net/topic/2688857-",
-            "authors": [
-                "squeek"
-            ],
-            "type": "mods",
-            "description": "Encourages dietary variety through diminishing returns."
         },
         {
             "name": "Solar Expansion",
