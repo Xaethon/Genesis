@@ -3,154 +3,127 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
+            "image" : "mainmenu:Genesis.png",
+            "posX" : -90,
+            "posY" : 5,
+            "width" : 200,
+            "height" : 60,
             "alignment" : "top_center"
         }
     },
-    
+
     "buttons":
     {
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
+            "posX" : -200,
+            "posY" : 15,
+            "width" : 90,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
         },
-        
+
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
+            "posX" : -200,
+            "posY" : 40,
+            "width" : 90,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
+
         "mods":
         {
             "text" : "Mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
+            "posX" : -200,
+            "posY" : 65,
+            "width" : 90,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
-            
+
         "options":
         {
             "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
+            "posX" : -200,
+            "posY" : 90,
+            "width" : 90,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
+            "posX" : -200,
+            "posY" : 115,
+            "width" : 90,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
-        },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
         }
+
     },
-    
+
     "texts":
     {
         "mojang":
         {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "posX" : -197,
+            "text" : "Copyright Mojang AB",
+            "posX" : -105,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right"
         },
-        
-        "fml":
+
+        "Genesis":
         {
-            "text" : "Genesis Version 1.1.0",
+            "text" : "Genesis Version 1.1.1",
             "posX" : 2,
-            "posY" : -50,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        "Author":
+        {
+            "text" : "by Xaethon",
+            "posX" : 112,
+            "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_left"
         }
     },
-    
-    "other":
-    {
-        "splash-text":
-        {
-            "posX" : 90,
-            "posY" : 70,
-            "color" : -256,
-            "alignment" : "top_center",
-            "file" : "texts/splashes.txt"
-        },
-        
-        "panorama":
-        {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+
+    "other": {
+        "background": {
+            "image": "",
+            "mode": "fill",
+            "slideshow": {
+                "images": ["mainmenu:screenshot1.png", "mainmenu:screenshot2.png", "mainmenu:screenshot3.png", "mainmenu:screenshot4.png", "mainmenu:screenshot5.png", "mainmenu:screenshot6.png", "mainmenu:screenshot7.png", "mainmenu:screenshot8.png"],
+                "displayDuration": 100,
+                "fadeDuration": 40,
+                "shuffle": true
+            }
         }
     }
 }
