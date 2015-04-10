@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -181,10 +181,10 @@
         },
         {
             "name": "AE2 Stuff",
-            "version": "0.1.6.14",
-            "url": "packs/Genesis/files/mods/ae2stuff-mc1710-0.1.6.14.jar",
-            "file": "ae2stuff-mc1710-0.1.6.14.jar",
-            "md5": "2c51a79c551d6ff5af5e0833ea000023",
+            "version": "0.1.7.17",
+            "url": "packs/Genesis/files/mods/ae2stuff-mc1710-0.1.7.17.jar",
+            "file": "ae2stuff-mc1710-0.1.7.17.jar",
+            "md5": "7c7a5933fc1aa349a3dd8fc2a0d73b88",
             "download": "server",
             "website": "http://www.bdew.net",
             "authors": [
@@ -340,10 +340,10 @@
         },
         {
             "name": "Big Reactors",
-            "version": "0.4.2A2",
-            "url": "packs/Genesis/files/mods/BigReactors-0.4.2A2.jar",
-            "file": "BigReactors-0.4.2A2.jar",
-            "md5": "a6981e4d1e6fffae6d0bc16573b91f31",
+            "version": "0.4.3A",
+            "url": "packs/Genesis/files/mods/BigReactors-0.4.3A.jar",
+            "file": "BigReactors-0.4.3A.jar",
+            "md5": "b1c71b6a64a84f154af2d83bdc0d33bf",
             "download": "server",
             "website": "http://www.big-reactors.com",
             "authors": [
@@ -491,6 +491,17 @@
             "description": "Required for all CoFH Mods. Also provides some customization options for Minecraft."
         },
         {
+            "name": "CoFH Lib",
+            "version": "1.0.0RC7-127",
+            "url": "packs/Genesis/files/CoFHLib-[1.7.10]1.0.0RC7-127.jar",
+            "file": "CoFHLib-[1.7.10]1.0.0RC7-127.jar",
+            "md5": "e2a2fccede56084cc484364b11959629",
+            "download": "server",
+            "website": "http://www.teamcofh.com",
+            "type": "mods",
+            "description": "CoFH Lib"
+        },
+        {
             "name": "ComputerCraft",
             "version": "1.73",
             "url": "packs/Genesis/files/mods/ComputerCraft1.73.jar",
@@ -585,10 +596,10 @@
         },
         {
             "name": "Ender IO",
-            "version": "1.7.10-2.3.0.368_beta",
-            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.368_beta.jar",
-            "file": "EnderIO-1.7.10-2.3.0.368_beta.jar",
-            "md5": "7ac8b85b60db25a75d348163182aa56c",
+            "version": "1.7.10-2.3.0.370_beta",
+            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.370_beta.jar",
+            "file": "EnderIO-1.7.10-2.3.0.370_beta.jar",
+            "md5": "d4cd731efb2631b7409cdd6e369cc5ec",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -647,10 +658,10 @@
         },
         {
             "name": "ExtraCells",
-            "version": "2.2.25",
-            "url": "packs/Genesis/files/mods/EXTRACELLS-1.7.10-2.2.25B45.jar",
-            "file": "EXTRACELLS-1.7.10-2.2.25B45.jar",
-            "md5": "02b29a267b8eb0cee12657b90eb43896",
+            "version": "2.2.65",
+            "url": "packs/Genesis/files/mods/ExtraCells-1.7.10-2.2.65b97.jar",
+            "file": "ExtraCells-1.7.10-2.2.65b97.jar",
+            "md5": "3abefb616b5dd04c3b1e73d110907f95",
             "download": "server",
             "website": "http://m3gafr3ak.github.io/ExtraCells/",
             "authors": [
@@ -675,10 +686,10 @@
         },
         {
             "name": "Extra Utilities",
-            "version": "1.2.3",
-            "url": "packs/Genesis/files/mods/extrautilities-1.2.3.jar",
-            "file": "extrautilities-1.2.3.jar",
-            "md5": "2362f41c21e88eb4a7f2905af993f043",
+            "version": "1.2.4",
+            "url": "packs/Genesis/files/extrautilities-1.2.4.jar",
+            "file": "extrautilities-1.2.4.jar",
+            "md5": "8a2e017e753e3856e927e4c747547ecb",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k",
             "authors": [
@@ -689,10 +700,10 @@
         },
         {
             "name": "FastCraft",
-            "version": "1.21",
-            "url": "packs/Genesis/files/mods/fastcraft-1.21.jar",
-            "file": "fastcraft-1.21.jar",
-            "md5": "f1f33a007d6a78d68e6bb217a6ffdb9e",
+            "version": "1.19",
+            "url": "packs/Genesis/files/mods/fastcraft-1.19.jar",
+            "file": "fastcraft-1.19.jar",
+            "md5": "4b503355f86d17406ce658f506eb1407",
             "download": "server",
             "website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820",
             "authors": [
@@ -732,10 +743,10 @@
         },
         {
             "name": "Minecraft Forge",
-            "version": "10.13.2.1343",
-            "url": "packs/Genesis/files/mods/forge-1.7.10-10.13.2.1343-1.7.10-universal.jar",
-            "file": "forge-1.7.10-10.13.2.1343-1.7.10-universal.jar",
-            "md5": "e0965a2389fe338cdedfb1b250003231",
+            "version": "10.13.2.1352",
+            "url": "packs/Genesis/files/forge-1.7.10-10.13.2.1352-1.7.10-universal.jar",
+            "file": "forge-1.7.10-10.13.2.1352-1.7.10-universal.jar",
+            "md5": "ea7261ba86f2244f1b0515c93332ec38",
             "download": "server",
             "website": "http://www.minecraftforge.net/forum/",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z5MLLA62HSUM2",
@@ -852,10 +863,10 @@
         },
         {
             "name": "IndustrialCraft 2",
-            "version": "2.2.708-experimental",
-            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.708-experimental.jar",
-            "file": "industrialcraft-2-2.2.708-experimental.jar",
-            "md5": "96228a30ebc1bf28e920a22b7432d85a",
+            "version": "2.2.711-experimental",
+            "url": "packs/Genesis/files/mods/industrialcraft-2-2.2.711-experimental.jar",
+            "file": "industrialcraft-2-2.2.711-experimental.jar",
+            "md5": "b11da0e47f6d59d15c1e63e2b39f15be",
             "download": "server",
             "website": "http://www.industrial-craft.net",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RHLW3YE3T848Q",
@@ -995,10 +1006,10 @@
         },
         {
             "name": "MalisisCore",
-            "version": "1.7.10-0.11.3",
-            "url": "packs/Genesis/files/mods/malisiscore-1.7.10-0.11.3.jar",
-            "file": "malisiscore-1.7.10-0.11.3.jar",
-            "md5": "e10235ded18dc749c95941f3043a562d",
+            "version": "1.7.10-0.11.4",
+            "url": "packs/Genesis/files/mods/malisiscore-1.7.10-0.11.4.jar",
+            "file": "malisiscore-1.7.10-0.11.4.jar",
+            "md5": "50dd5bd2e9b1b5eb0f6889232528391e",
             "download": "server",
             "website": "http://github.com/Ordinastie/MalisisCore",
             "authors": [
@@ -1263,10 +1274,10 @@
         },
         {
             "name": "OpenBlocks",
-            "version": "1.3",
-            "url": "packs/Genesis/files/mods/OpenBlocks-1.7.10-1.3.jar",
-            "file": "OpenBlocks-1.7.10-1.3.jar",
-            "md5": "746c1bc0f853ccd30db0faf8a98ed9e7",
+            "version": "1.4",
+            "url": "packs/Genesis/files/mods/OpenBlocks-1.7.10-1.4.jar",
+            "file": "OpenBlocks-1.7.10-1.4.jar",
+            "md5": "0ea05e0a6dd346a2714602b71eddde45",
             "download": "server",
             "website": "http://www.openperipheral.info",
             "donation": "http://www.patreon.com/openmods",
@@ -1281,10 +1292,10 @@
         },
         {
             "name": "OpenMods",
-            "version": "0.6",
-            "url": "packs/Genesis/files/mods/OpenModsLib-1.7.10-0.6.jar",
-            "file": "OpenModsLib-1.7.10-0.6.jar",
-            "md5": "826ed8918d3eb9281e2dd4cb27fbe31e",
+            "version": "0.7",
+            "url": "packs/Genesis/files/mods/OpenModsLib-1.7.10-0.7.jar",
+            "file": "OpenModsLib-1.7.10-0.7.jar",
+            "md5": "21a5f665b0bb0ee314f714bfdc77d928",
             "download": "server",
             "website": "http://openmods.info/",
             "donation": "http://www.patreon.com/openmods",
@@ -1300,9 +1311,9 @@
         {
             "name": "OpenPeripheral Core",
             "version": "1.7.10",
-            "url": "packs/Genesis/files/mods/OpenPeripheral-1.7.10-AIO-1.jar",
-            "file": "OpenPeripheral-1.7.10-AIO-1.jar",
-            "md5": "7d0d0427e5fb4527acd18bf6454ef775",
+            "url": "packs/Genesis/files/mods/OpenPeripheral-1.7.10-AIO-2.jar",
+            "file": "OpenPeripheral-1.7.10-AIO-2.jar",
+            "md5": "61bf782c7f222618d8fd0f9b160be4a9",
             "download": "server",
             "website": "http://openmods.info/",
             "donation": "http://www.patreon.com/openmods",
@@ -1316,10 +1327,10 @@
         },
         {
             "name": "Opis",
-            "version": "1.2.5_1.7.10",
-            "url": "packs/Genesis/files/mods/Opis-1.2.5_1.7.10.jar",
-            "file": "Opis-1.2.5_1.7.10.jar",
-            "md5": "82e98ab306d952f3371a514333c226b4",
+            "version": "1.2.3_1.7.10",
+            "url": "packs/Genesis/files/mods/Opis-1.2.3_1.7.10.jar",
+            "file": "Opis-1.2.3_1.7.10.jar",
+            "md5": "b6cbb92875c73349b88e597e14b96587",
             "download": "server",
             "website": "http://minecraft.curseforge.com/mc-mods/73832-opis",
             "authors": [
@@ -1334,10 +1345,10 @@
         },
         {
             "name": "MobiusCore",
-            "version": "1.2.5_1.7.10",
-            "url": "packs/Genesis/files/mods/MobiusCore-1.2.5_1.7.10.jar",
-            "file": "MobiusCore-1.2.5_1.7.10.jar",
-            "md5": "29990acae6a30d35057380222be87294",
+            "version": "1.2.3_1.7.10",
+            "url": "packs/Genesis/files/mods/MobiusCore-1.2.3_1.7.10.jar",
+            "file": "MobiusCore-1.2.3_1.7.10.jar",
+            "md5": "2f6af16859c7f6b752cbbc9f1cabf5af",
             "download": "server",
             "website": "http://minecraft.curseforge.com/mc-mods/76734-mobiuscore",
             "authors": [
@@ -1364,10 +1375,10 @@
         },
         {
             "name": "Pressure Pipes",
-            "version": "1.1.0.87",
-            "url": "packs/Genesis/files/mods/pressure-mc1710-1.1.0.87.jar",
-            "file": "pressure-mc1710-1.1.0.87.jar",
-            "md5": "ccb305e345b107497ca32548859b43ee",
+            "version": "1.1.1.89",
+            "url": "packs/Genesis/files/mods/pressure-mc1710-1.1.1.89.jar",
+            "file": "pressure-mc1710-1.1.1.89.jar",
+            "md5": "1fbb93f6ecbc6e103173fbbc3b0c70ee",
             "download": "server",
             "website": "https://bdew.net/",
             "authors": [
@@ -1448,10 +1459,10 @@
         },
         {
             "name": "RFTools",
-            "version": "2.73",
-            "url": "packs/Genesis/files/mods/rftools-2.73.jar",
-            "file": "rftools-2.73.jar",
-            "md5": "b04f75b1425e41c97eb20967db669740",
+            "version": "2.75",
+            "url": "packs/Genesis/files/mods/rftools-2.75.jar",
+            "file": "rftools-2.75.jar",
+            "md5": "e3df311393e4f7f47023c193e4a3a9c1",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto",
             "authors": [
@@ -1546,10 +1557,10 @@
         },
         {
             "name": "Stev's Addons",
-            "version": "0.9.13",
-            "url": "packs/Genesis/files/mods/StevesAddons-1.7.10-0.9.13.jar",
-            "file": "StevesAddons-1.7.10-0.9.13.jar",
-            "md5": "f65167737c5e3e52c0601d0170ff85c5",
+            "version": "0.10.1",
+            "url": "packs/Genesis/files/StevesAddons-1.7.10-0.10.1.jar",
+            "file": "StevesAddons-1.7.10-0.10.1.jar",
+            "md5": "e80abe6098e8dc59d5cf298ad7638e66",
             "download": "server",
             "website": "http://www.curse.com/mc-mods/minecraft/226067-steves-addons",
             "type": "mods",
@@ -1630,20 +1641,6 @@
             ],
             "type": "mods",
             "description": "Adding a touch of magic to Minecraft"
-        },
-        {
-            "name": "Thaumic Energistics",
-            "version": "0.8.9.1b-rv2",
-            "url": "packs/Genesis/files/mods/thaumicenergistics-0.8.9.1b-rv2.jar",
-            "file": "thaumicenergistics-0.8.9.1b-rv2.jar",
-            "md5": "f6fe1399e07c17a6ee16d7fa9b0e218b",
-            "download": "server",
-            "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2150151-1-7-10-tc4-ae2-thaumic-energistics",
-            "authors": [
-                "Nividica"
-            ],
-            "type": "mods",
-            "description": "The digital age could use some magic"
         },
         {
             "name": "Thaumic Energistics",
@@ -1790,10 +1787,10 @@
         },
         {
             "name": "ttCore",
-            "version": "MC1.7.10-0.1.0-56",
-            "url": "packs/Genesis/files/mods/ttCore-MC1.7.10-0.1.0-56.jar",
-            "file": "ttCore-MC1.7.10-0.1.0-56.jar",
-            "md5": "e8f7dbb65cb9f06b01cda816611b4481",
+            "version": "MC1.7.10-0.1.0-67",
+            "url": "packs/Genesis/files/mods/ttCore-MC1.7.10-0.1.0-67.jar",
+            "file": "ttCore-MC1.7.10-0.1.0-67.jar",
+            "md5": "6e53f7e2212e5598e351181d74b36b6b",
             "download": "server",
             "website": "http://ci.tterrag.com",
             "authors": [
