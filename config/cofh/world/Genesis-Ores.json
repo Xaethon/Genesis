@@ -984,5 +984,70 @@
         -19,
         -42
       ]
+    },
+    "uranium": {
+          "template": "fractal",
+          "sparse": false,
+          "block": {"name": "IC2:BlockOreUran", "metadata": 0},
+          "material": [
+            {"name": "minecraft:stone"},
+            {"name": "chisel:marble"}
+          ],
+          "clusterSize": 5,
+          "numClusters": 12,
+          "chunkChance": 18,
+          "minHeight": 16,
+          "maxHeight": 58,
+          "veinHeight": 4,
+          "veinDiameter": 12,
+          "verticalDensity": 90,
+          "horizontalDensity": 80,
+          "retrogen": "true",
+          "biomeRestriction": "none",
+          "biomes": [],
+          "dimensionRestriction": "blacklist",
+          "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+          ]
+    },
+    "yellorite uranium": {
+          "template": "fractal",
+          "sparse": false,
+          "block": [
+            {"name": "BigReactors:YelloriteOre", "metadata": 0, "weight": 60},
+            {"name": "IC2:BlockOreUran", "metadata": 0, "weight": 40}
+          ],
+          "material": [
+            {"name": "minecraft:stone"},
+            {"name": "chisel:marble"}
+          ],
+          "clusterSize": 5,
+          "numClusters": 12,
+          "chunkChance": 18,
+          "minHeight": 3,
+          "maxHeight": 58,
+          "veinHeight": 4,
+          "veinDiameter": 12,
+          "verticalDensity": 90,
+          "horizontalDensity": 80,
+          "retrogen": "true",
+          "biomeRestriction": "none",
+          "biomes": [],
+          "dimensionRestriction": "blacklist",
+          "dimensions": [
+            -1,
+            1,
+            7,
+            -100,
+            -37,
+            -19,
+            -42
+          ]
     }
 }
