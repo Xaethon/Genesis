@@ -1,5 +1,5 @@
 {
-    "version": "1.1.3",
+    "version": "1.2.0",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -237,10 +237,10 @@
         },
         {
             "name": "Applied Energistics 2",
-            "version": "rv2-beta-18",
-            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-18.jar",
-            "file": "appliedenergistics2-rv2-beta-18.jar",
-            "md5": "bd17276ce46d66d83b36a676221bfce4",
+            "version": "rv2-beta-28",
+            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-28.jar",
+            "file": "appliedenergistics2-rv2-beta-28.jar",
+            "md5": "21f3cb8c8fc2ebf3000145df16ff38de",
             "download": "server",
             "website": "http://ae2.ae-mod.info",
             "authors": [
@@ -307,6 +307,20 @@
             ],
             "type": "mods",
             "description": "This is a collection of generic code used by bdew's other mods"
+        },
+        {
+            "name": "Better Loading Screen",
+            "version": "1.2.6",
+            "url": "packs/Genesis/files/mods/[1.7.10] BetterLoadingScreen-1.2.6.jar",
+            "file": "[1.7.10] BetterLoadingScreen-1.2.6.jar",
+            "md5": "de2a457cdac51a43f6aace355273af92",
+            "download": "server",
+            "website": "http://www.curse.com/mc-mods/minecraft/229302-better-loading-screen",
+            "authors": [
+                "AlexIIL"
+            ],
+            "type": "mods",
+            "description": "A better loading screen that shows you the status of minecraft's loading time"
         },
         {
             "name": "BiblioCraft",
@@ -386,12 +400,12 @@
         },
         {
             "name": "Botania",
-            "version": "r1.6-174",
-            "url": "packs/Genesis/files/mods/Botania r1.6-174.jar",
-            "file": "Botania r1.6-174.jar",
-            "md5": "4da920fafa319bcfa255c787c8a648f1",
+            "version": "r1.6-175",
+            "url": "packs/Genesis/files/mods/Botania r1.6-175.jar",
+            "file": "Botania r1.6-175.jar",
+            "md5": "ded59eebe696deb6bea53680135d9fda",
             "download": "server",
-            "website": "http://www.vazkii.us",
+            "website": "http://www.botaniamod.net",
             "authors": [
                 "Vazkii"
             ],
@@ -400,10 +414,10 @@
         },
         {
             "name": "Carpenter's Blocks",
-            "version": "3.3.4.2",
-            "url": "packs/Genesis/files/mods/Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar",
-            "file": "Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar",
-            "md5": "aabe072b29796d74998ee9ab472b67a5",
+            "version": "3.3.6",
+            "url": "packs/Genesis/files/mods/Carpenters Blocks v3.3.6 - MC 1.7.10.jar",
+            "file": "Carpenters Blocks v3.3.6 - MC 1.7.10.jar",
+            "md5": "e10ec38141819884cecacb4cfa5389a6",
             "download": "server",
             "website": "http://www.carpentersblocks.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YGAB8YNHMQPLQ&lc=US&item_name=Minecraft%20Modding&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted",
@@ -477,10 +491,10 @@
         },
         {
             "name": "CoFH Core",
-            "version": "3.0.0RC7",
-            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar",
-            "file": "CoFHCore-[1.7.10]3.0.0RC7-211.jar",
-            "md5": "45906afa33c3a70d1ea7ee771384f5ff",
+            "version": "3.0.1",
+            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.1-254.jar",
+            "file": "CoFHCore-[1.7.10]3.0.1-254.jar",
+            "md5": "193bc24b02a27f858b8dc70b01b2fcb2",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -492,10 +506,10 @@
         },
         {
             "name": "CoFH Lib",
-            "version": "1.0.0RC7-127",
-            "url": "packs/Genesis/files/CoFHLib-[1.7.10]1.0.0RC7-127.jar",
-            "file": "CoFHLib-[1.7.10]1.0.0RC7-127.jar",
-            "md5": "e2a2fccede56084cc484364b11959629",
+            "version": "1.0.1-151",
+            "url": "packs/Genesis/files/mods/CoFHLib-[1.7.10]1.0.1-151.jar",
+            "file": "CoFHLib-[1.7.10]1.0.1-151.jar",
+            "md5": "b76f37f72ad220fd0f8d3cbbd2775313",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "type": "mods",
@@ -596,10 +610,10 @@
         },
         {
             "name": "Ender IO",
-            "version": "1.7.10-2.3.0.370_beta",
-            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.370_beta.jar",
-            "file": "EnderIO-1.7.10-2.3.0.370_beta.jar",
-            "md5": "d4cd731efb2631b7409cdd6e369cc5ec",
+            "version": "1.7.10-2.3.0.371_beta",
+            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.371_beta.jar",
+            "file": "EnderIO-1.7.10-2.3.0.371_beta.jar",
+            "md5": "55f677c6e94cfb7d79934c35b177e225",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -625,11 +639,26 @@
             "description": "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)."
         },
         {
+            "name": "EnderTech",
+            "version": "1.7.10-0.3.2.373",
+            "url": "packs/Genesis/files/mods/EnderTech-1.7.10-0.3.2.375.jar",
+            "file": "EnderTech-1.7.10-0.3.2.375.jar",
+            "md5": "0a4807995f6c5ebb01e6fff7a3546518",
+            "download": "server",
+            "website": "https://github.com/voxelcarrot/EnderTech",
+            "authors": [
+                "voxelcarrot",
+                "Arkan"
+            ],
+            "type": "mods",
+            "description": "Ender themed technological expansion."
+        },
+        {
             "name": "Ender Zoo",
-            "version": "1.7.10-1.0.9.18",
-            "url": "packs/Genesis/files/mods/EnderZoo-1.7.10-1.0.9.18.jar",
-            "file": "EnderZoo-1.7.10-1.0.9.18.jar",
-            "md5": "060564e736cfc0fbc034d74faf39d5d3",
+            "version": "1.7.10-1.0.11.27",
+            "url": "packs/Genesis/files/mods/EnderZoo-1.7.10-1.0.11.27.jar",
+            "file": "EnderZoo-1.7.10-1.0.11.27.jar",
+            "md5": "34555b30ff30dea20fb463b6e0fa4a7f",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -686,10 +715,10 @@
         },
         {
             "name": "Extra Utilities",
-            "version": "1.2.4",
-            "url": "packs/Genesis/files/extrautilities-1.2.4.jar",
-            "file": "extrautilities-1.2.4.jar",
-            "md5": "8a2e017e753e3856e927e4c747547ecb",
+            "version": "1.2.3",
+            "url": "packs/Genesis/files/extrautilities-1.2.3.jar",
+            "file": "extrautilities-1.2.3.jar",
+            "md5": "2362f41c21e88eb4a7f2905af993f043",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k",
             "authors": [
@@ -780,9 +809,9 @@
         {
             "name": "Galacticraft Core",
             "version": "3.0.11",
-            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.11.310.jar",
-            "file": "GalacticraftCore-1.7-3.0.11.310.jar",
-            "md5": "6e64521ade087e8de63b14511bc7f699",
+            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.11.315.jar",
+            "file": "GalacticraftCore-1.7-3.0.11.315.jar",
+            "md5": "b554ac4e6108a718dd6fe9f6e3a47b2c",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "authors": [
@@ -796,9 +825,9 @@
         {
             "name": "Galacticraft Planets",
             "version": "3.0.11",
-            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.11.310.jar",
-            "file": "Galacticraft-Planets-1.7-3.0.11.310.jar",
-            "md5": "ce15ca04575f2e97d54796dfff1ead29",
+            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.11.315.jar",
+            "file": "Galacticraft-Planets-1.7-3.0.11.315.jar",
+            "md5": "1a3447d5f081b23ff2ecfd635bd89a2b",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -812,14 +841,29 @@
         },
         {
             "name": "Garden Stuff",
-            "version": "1.5.3",
-            "url": "packs/Genesis/files/mods/GardenStuff-1.7.10-1.5.6.jar",
-            "file": "GardenStuff-1.7.10-1.5.6.jar",
-            "md5": "bddec5adf482c09a0ff6b3c2bcb153e6",
+            "version": "1.6.1",
+            "url": "packs/Genesis/files/mods/GardenStuff-1.7.10-1.6.1.jar",
+            "file": "GardenStuff-1.7.10-1.6.1.jar",
+            "md5": "a61ff2266c508b48ff0f1b9f094f43d2",
             "download": "server",
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-v-1-4-0-updated-mar-01-15",
             "type": "mods",
             "description": "This is a collection of garden-related mods originally based on Modular Flower Pots. "
+        },
+        {
+            "name": "GraviGun",
+            "version": "4.0.0-beta",
+            "url": "packs/Genesis/files/mods/GravityGun-4.0.0-beta.jar",
+            "file": "GravityGun-4.0.0-beta.jar",
+            "md5": "ac70a43a82eac9488caecb6a11d5e040",
+            "download": "server",
+            "website": "http://ichun.us/mods/gravity-gun/",
+            "donation": "http://pitchinbox.com/redirect.php?id=5757827081",
+            "authors": [
+                "iChun"
+            ],
+            "type": "mods",
+            "description": "Adds the HL2 Gravity Gun to Minecraft"
         },
         {
             "name": "IC2 Advanced Machines Addon",
@@ -845,6 +889,22 @@
             "website": "http://code.google.com/p/efficient-java-matrix-library/",
             "type": "ic2lib",
             "description": "Ic2 Library"
+        },
+        {
+            "name": "iChunUtil",
+            "version": "4.2.2",
+            "url": "packs/Genesis/files/mods/iChunUtil-4.2.2.jar",
+            "file": "iChunUtil-4.2.2.jar",
+            "md5": "878c90aec5d724e1296fc60cfd6dc372",
+            "download": "server",
+            "website": "http://www.ichun.us/",
+            "donation": "http://pitchinbox.com/redirect.php?id=5757827081",
+            "authors": [
+                "iChun",
+                "Kihira"
+            ],
+            "type": "mods",
+            "description": "Shared library mod required by several of iChun's Mods."
         },
         {
             "name": "Iguana Tinker Tweaks",
@@ -1125,10 +1185,10 @@
         },
         {
             "name": "Micdoodle8 Core",
-            "version": "3.0.11.310",
-            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.11.310.jar",
-            "file": "MicdoodleCore-1.7-3.0.11.310.jar",
-            "md5": "ac716f7a62dc493abfc16b6c18a190b1",
+            "version": "3.0.11.315",
+            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.11.315.jar",
+            "file": "MicdoodleCore-1.7-3.0.11.315.jar",
+            "md5": "3cb595ce15107f7b96f379a23004da62",
             "download": "server",
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -1154,10 +1214,10 @@
         },
         {
             "name": "MineFactory Reloaded",
-            "version": "[1.7.10]2.8.0RC8-88",
-            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
-            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
-            "md5": "fef7a1b24562f13f672f7f4713983861",
+            "version": "[1.7.10]2.8.0RC8-103",
+            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-103.jar",
+            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-103.jar",
+            "md5": "8432a697786a0ae676436dc8facf03d8",
             "download": "server",
             "website": "http://www.minecraftforum.net/topic/2016680-",
             "authors": [
@@ -1224,6 +1284,20 @@
             ],
             "type": "mods",
             "description": "Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins."
+        },
+        {
+            "name": "NEI Integration",
+            "version": "1.0.8",
+            "url": "packs/Genesis/files/mods/NEIIntegration-MC1.7.10-1.0.8.jar",
+            "file": "NEIIntegration-MC1.7.10-1.0.8.jar",
+            "md5": "34a6261648a6070649a55e860b6ce2eb",
+            "download": "server",
+            "website": "http://www.curse.com/mc-mods/minecraft/225251-nei-integration",
+            "authors": [
+                "tonius11"
+            ],
+            "type": "mods",
+            "description": "NEI handlers for all of the mods, one at a time."
         },
         {
             "name": "Nether Ores",
@@ -1360,10 +1434,10 @@
         },
         {
             "name": "Pam's HarvestCraft",
-            "version": "1.7.10g",
-            "url": "packs/Genesis/files/mods/Pams HarvestCraft 1.7.10g.jar",
-            "file": "Pams HarvestCraft 1.7.10g.jar",
-            "md5": "01a3c287c9b43c13bb5e8cf6560bea92",
+            "version": "1.7.10h",
+            "url": "packs/Genesis/files/mods/Pams HarvestCraft 1.7.10h.jar",
+            "file": "Pams HarvestCraft 1.7.10h.jar",
+            "md5": "50f74aa74147a4ced59f0b2ebd0d6705",
             "download": "server",
             "website": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UMVYJNMULKL2W&lc=US&item_name=Pam%27s%20Mods&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted",
@@ -1372,6 +1446,21 @@
             ],
             "type": "mods",
             "description": "An absolutely huge farming and food mod."
+        },
+        {
+            "name": "PortalGun",
+            "version": "4.0.0-beta",
+            "url": "packs/Genesis/files/mods/PortalGun-4.0.0-beta.jar",
+            "file": "PortalGun-4.0.0-beta.jar",
+            "md5": "2259a161ae561bc317890a3dda080731",
+            "download": "server",
+            "website": "http://www.minecraftforum.net/topic/199391-/",
+            "donation": "http://pitchinbox.com/redirect.php?id=5757827081",
+            "authors": [
+                "iChun"
+            ],
+            "type": "mods",
+            "description": "Add the portal gun and many other portal elements into Minecraft."
         },
         {
             "name": "Pressure Pipes",
@@ -1428,10 +1517,10 @@
         },
         {
             "name": "Redstone Arsenal",
-            "version": "1.1.0RC7",
-            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
-            "file": "RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
-            "md5": "26b3b5feea5f6c43c7f196a149d138a1",
+            "version": "1.1.0",
+            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+            "file": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+            "md5": "1c3545eb290e0ddadeba1cc36afd2814",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -1687,10 +1776,10 @@
         },
         {
             "name": "Thermal Foundation",
-            "version": "1.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
-            "file": "ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
-            "md5": "cc66b7c4ea509ae0e18ad2e6c1312a6b",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar",
+            "file": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
+            "md5": "1442f906d4b9adb1d8540533da6b1b5f",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "authors": [
@@ -1701,10 +1790,10 @@
         },
         {
             "name": "Thermal Expansion",
-            "version": "4.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
-            "file": "ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
-            "md5": "a8b05ca4ecb7b15d96c1bc3add84ffb4",
+            "version": "4.0.0",
+            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0-176.jar",
+            "file": "ThermalExpansion-[1.7.10]4.0.0-176.jar",
+            "md5": "c994520e19c74f22d75abea4ca8fa5cd",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -1716,10 +1805,10 @@
         },
         {
             "name": "Thermal Dynamics",
-            "version": "1.0.0RC8",
-            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
-            "file": "ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
-            "md5": "f81f4610e65e8e5a67782a5dfcc80d4d",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar",
+            "file": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
+            "md5": "338c1c9100ea1e296dd0ef759a816afa",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "authors": [
@@ -1871,10 +1960,10 @@
         },
         {
             "name": "Witching Gadgets",
-            "version": "1.1.3",
-            "url": "packs/Genesis/files/mods/WitchingGadgets-1.7.10-1.1.3.jar",
-            "file": "WitchingGadgets-1.7.10-1.1.3.jar",
-            "md5": "d82f7385559cbda2ca7e5f7d2d3d3e4e",
+            "version": "1.1.4",
+            "url": "packs/Genesis/files/mods/WitchingGadgets-1.7.10-1.1.4.jar",
+            "file": "WitchingGadgets-1.7.10-1.1.4.jar",
+            "md5": "ac4b3828cbfdc265ad8bd2fe1e022596",
             "download": "server",
             "website": "http://www.curse.com/mc-mods/minecraft/228268-witching-gadgets",
             "authors": [
