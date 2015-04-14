@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -237,10 +237,10 @@
         },
         {
             "name": "Applied Energistics 2",
-            "version": "rv2-beta-28",
-            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-28.jar",
-            "file": "appliedenergistics2-rv2-beta-28.jar",
-            "md5": "21f3cb8c8fc2ebf3000145df16ff38de",
+            "version": "rv2-beta-18",
+            "url": "packs/Genesis/files/mods/appliedenergistics2-rv2-beta-18.jar",
+            "file": "appliedenergistics2-rv2-beta-18.jar",
+            "md5": "bd17276ce46d66d83b36a676221bfce4",
             "download": "server",
             "website": "http://ae2.ae-mod.info",
             "authors": [
@@ -310,16 +310,18 @@
         },
         {
             "name": "Better Loading Screen",
-            "version": "1.2.6",
-            "url": "packs/Genesis/files/mods/[1.7.10] BetterLoadingScreen-1.2.6.jar",
-            "file": "[1.7.10] BetterLoadingScreen-1.2.6.jar",
-            "md5": "de2a457cdac51a43f6aace355273af92",
+            "version": "1.2.8",
+            "url": "packs/Genesis/files/mods/[1.7.10] BetterLoadingScreen-1.2.8.jar",
+            "file": "[1.7.10] BetterLoadingScreen-1.2.8.jar",
+            "md5": "143f1a356fc83e61d613b862918927fc",
             "download": "server",
             "website": "http://www.curse.com/mc-mods/minecraft/229302-better-loading-screen",
             "authors": [
                 "AlexIIL"
             ],
             "type": "mods",
+            "server": false,
+            "serverSeparate": false,
             "description": "A better loading screen that shows you the status of minecraft's loading time"
         },
         {
@@ -400,10 +402,10 @@
         },
         {
             "name": "Botania",
-            "version": "r1.6-175",
-            "url": "packs/Genesis/files/mods/Botania r1.6-175.jar",
-            "file": "Botania r1.6-175.jar",
-            "md5": "ded59eebe696deb6bea53680135d9fda",
+            "version": "r1.6-176",
+            "url": "packs/Genesis/files/mods/Botania r1.6-176.jar",
+            "file": "Botania r1.6-176.jar",
+            "md5": "4512b14b5b83a542496b206bd3dde578",
             "download": "server",
             "website": "http://www.botaniamod.net",
             "authors": [
@@ -491,10 +493,10 @@
         },
         {
             "name": "CoFH Core",
-            "version": "3.0.1",
-            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.1-254.jar",
-            "file": "CoFHCore-[1.7.10]3.0.1-254.jar",
-            "md5": "193bc24b02a27f858b8dc70b01b2fcb2",
+            "version": "3.0.0RC7",
+            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar",
+            "file": "CoFHCore-[1.7.10]3.0.0RC7-211.jar",
+            "md5": "45906afa33c3a70d1ea7ee771384f5ff",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -503,17 +505,6 @@
             ],
             "type": "mods",
             "description": "Required for all CoFH Mods. Also provides some customization options for Minecraft."
-        },
-        {
-            "name": "CoFH Lib",
-            "version": "1.0.1-151",
-            "url": "packs/Genesis/files/mods/CoFHLib-[1.7.10]1.0.1-151.jar",
-            "file": "CoFHLib-[1.7.10]1.0.1-151.jar",
-            "md5": "b76f37f72ad220fd0f8d3cbbd2775313",
-            "download": "server",
-            "website": "http://www.teamcofh.com",
-            "type": "mods",
-            "description": "CoFH Lib"
         },
         {
             "name": "ComputerCraft",
@@ -610,10 +601,10 @@
         },
         {
             "name": "Ender IO",
-            "version": "1.7.10-2.3.0.371_beta",
-            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.371_beta.jar",
-            "file": "EnderIO-1.7.10-2.3.0.371_beta.jar",
-            "md5": "55f677c6e94cfb7d79934c35b177e225",
+            "version": "1.7.10-2.3.0.372_beta",
+            "url": "packs/Genesis/files/mods/EnderIO-1.7.10-2.3.0.372_beta.jar",
+            "file": "EnderIO-1.7.10-2.3.0.372_beta.jar",
+            "md5": "7b973143ccbac737d83f4987d03bde8e",
             "download": "server",
             "website": "http://enderio.com",
             "authors": [
@@ -637,21 +628,6 @@
             ],
             "type": "mods",
             "description": "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)."
-        },
-        {
-            "name": "EnderTech",
-            "version": "1.7.10-0.3.2.373",
-            "url": "packs/Genesis/files/mods/EnderTech-1.7.10-0.3.2.375.jar",
-            "file": "EnderTech-1.7.10-0.3.2.375.jar",
-            "md5": "0a4807995f6c5ebb01e6fff7a3546518",
-            "download": "server",
-            "website": "https://github.com/voxelcarrot/EnderTech",
-            "authors": [
-                "voxelcarrot",
-                "Arkan"
-            ],
-            "type": "mods",
-            "description": "Ender themed technological expansion."
         },
         {
             "name": "Ender Zoo",
@@ -744,10 +720,10 @@
         },
         {
             "name": "Femtocraft",
-            "version": "1.7.10-0.4.1-16-dev",
-            "url": "packs/Genesis/files/mods/femtocraft-1.7.10-0.4.1-16-dev.jar",
-            "file": "femtocraft-1.7.10-0.4.1-16-dev.jar",
-            "md5": "708ea0d557fdf1a2ee123d61f4e8518c",
+            "version": "1.7.10-0.4.0-15-dev",
+            "url": "packs/Genesis/files/mods/femtocraft-1.7.10-0.4.0-15-dev.jar",
+            "file": "femtocraft-1.7.10-0.4.0-15-dev.jar",
+            "md5": "d5b12e5c6762bc6c4ba107fb61a76c3b",
             "download": "server",
             "website": "http://femtocraft.blogspot.com",
             "authors": [
@@ -1111,10 +1087,10 @@
         },
         {
             "name": "Mekanism",
-            "version": "8.1.0",
-            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-8.1.0.214.jar",
-            "file": "Mekanism-1.7.10-8.1.0.214.jar",
-            "md5": "ae756c872f2d6ddc54712b4c7fafce05",
+            "version": "8.1.1",
+            "url": "packs/Genesis/files/mods/Mekanism-1.7.10-8.1.1.226.jar",
+            "file": "Mekanism-1.7.10-8.1.1.226.jar",
+            "md5": "ce7c49b18037fd5968ec89b7bf46d017",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1126,10 +1102,10 @@
         },
         {
             "name": "MekanismGenerators",
-            "version": "8.1.0",
-            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-8.1.0.214.jar",
-            "file": "MekanismGenerators-1.7.10-8.1.0.214.jar",
-            "md5": "781816846d6ba08663a6b25e1af27a5b",
+            "version": "8.1.1",
+            "url": "packs/Genesis/files/mods/MekanismGenerators-1.7.10-8.1.1.226.jar",
+            "file": "MekanismGenerators-1.7.10-8.1.1.226.jar",
+            "md5": "576bf7b4f2e09e239876d6df0a503c79",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1141,10 +1117,10 @@
         },
         {
             "name": "MekanismTools",
-            "version": "8.1.0",
-            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-8.1.0.214.jar",
-            "file": "MekanismTools-1.7.10-8.1.0.214.jar",
-            "md5": "9774fd46bbc55f7f7c80b062d17a7fbd",
+            "version": "8.1.1",
+            "url": "packs/Genesis/files/mods/MekanismTools-1.7.10-8.1.1.226.jar",
+            "file": "MekanismTools-1.7.10-8.1.1.226.jar",
+            "md5": "e4d8e848d98619330d2e252d33b1d355",
             "download": "server",
             "website": "http://universalelectricity.com/mekanism",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQH6NGL2C4QWY",
@@ -1214,10 +1190,10 @@
         },
         {
             "name": "MineFactory Reloaded",
-            "version": "[1.7.10]2.8.0RC8-103",
-            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-103.jar",
-            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-103.jar",
-            "md5": "8432a697786a0ae676436dc8facf03d8",
+            "version": "[1.7.10]2.8.0RC8-88",
+            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
+            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
+            "md5": "fef7a1b24562f13f672f7f4713983861",
             "download": "server",
             "website": "http://www.minecraftforum.net/topic/2016680-",
             "authors": [
@@ -1449,10 +1425,10 @@
         },
         {
             "name": "PortalGun",
-            "version": "4.0.0-beta",
-            "url": "packs/Genesis/files/mods/PortalGun-4.0.0-beta.jar",
-            "file": "PortalGun-4.0.0-beta.jar",
-            "md5": "2259a161ae561bc317890a3dda080731",
+            "version": "4.0.0-beta-4",
+            "url": "packs/Genesis/files/mods/PortalGun-4.0.0-beta-4.jar",
+            "file": "PortalGun-4.0.0-beta-4.jar",
+            "md5": "0f39541e8150f4007aec90ea4ddc43d9",
             "download": "server",
             "website": "http://www.minecraftforum.net/topic/199391-/",
             "donation": "http://pitchinbox.com/redirect.php?id=5757827081",
@@ -1517,10 +1493,10 @@
         },
         {
             "name": "Redstone Arsenal",
-            "version": "1.1.0",
-            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar",
-            "file": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
-            "md5": "1c3545eb290e0ddadeba1cc36afd2814",
+            "version": "1.1.0RC7",
+            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
+            "file": "RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
+            "md5": "26b3b5feea5f6c43c7f196a149d138a1",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -1776,10 +1752,10 @@
         },
         {
             "name": "Thermal Foundation",
-            "version": "1.0.0",
-            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar",
-            "file": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
-            "md5": "1442f906d4b9adb1d8540533da6b1b5f",
+            "version": "1.0.0RC7",
+            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
+            "file": "ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
+            "md5": "cc66b7c4ea509ae0e18ad2e6c1312a6b",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "authors": [
@@ -1790,10 +1766,10 @@
         },
         {
             "name": "Thermal Expansion",
-            "version": "4.0.0",
-            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0-176.jar",
-            "file": "ThermalExpansion-[1.7.10]4.0.0-176.jar",
-            "md5": "c994520e19c74f22d75abea4ca8fa5cd",
+            "version": "4.0.0RC7",
+            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
+            "file": "ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
+            "md5": "a8b05ca4ecb7b15d96c1bc3add84ffb4",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
@@ -1805,10 +1781,10 @@
         },
         {
             "name": "Thermal Dynamics",
-            "version": "1.0.0",
-            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar",
-            "file": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
-            "md5": "338c1c9100ea1e296dd0ef759a816afa",
+            "version": "1.0.0RC8",
+            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
+            "file": "ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
+            "md5": "f81f4610e65e8e5a67782a5dfcc80d4d",
             "download": "server",
             "website": "http://www.teamcofh.com",
             "authors": [
@@ -1946,10 +1922,10 @@
         },
         {
             "name": "Witchery",
-            "version": "1.7.10-0.23.2",
-            "url": "packs/Genesis/files/mods/witchery-1.7.10-0.23.2.jar",
-            "file": "witchery-1.7.10-0.23.2.jar",
-            "md5": "3621961be729885acbdbfebb7f4734ff",
+            "version": "1.7.10-0.24.0",
+            "url": "packs/Genesis/files/mods/witchery-1.7.10-0.24.0.jar",
+            "file": "witchery-1.7.10-0.24.0.jar",
+            "md5": "33063cf8129bf1a3efd7ee6b01d26bff",
             "download": "server",
             "website": "http://sites.google.com/site/witcherymod/",
             "authors": [
