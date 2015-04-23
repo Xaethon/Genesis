@@ -1,5 +1,5 @@
 {
-    "version": "1.2.1a",
+    "version": "1.2.2",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -423,12 +423,12 @@
         },
         {
             "name": "Better Loading Screen",
-            "version": "1.2.8",
-            "url": "packs/Genesis/files/mods/[1.7.10] BetterLoadingScreen-1.2.8.jar",
-            "file": "[1.7.10] BetterLoadingScreen-1.2.8.jar",
+            "version": "1.3.0",
+            "url": "packs/Genesis/files/mods/[1.7.10] BetterLoadingScreen-1.3.0.jar",
+            "file": "[1.7.10] BetterLoadingScreen-1.3.0.jar",
             "download": "server",
-            "md5": "143f1a356fc83e61d613b862918927fc",
-            "filesize": 59497,
+            "md5": "02bc9e075e417a66d685bd8ea2e025ae",
+            "filesize": 68920,
             "website": "http://www.curse.com/mc-mods/minecraft/229302-better-loading-screen",
             "authors": [
                 "AlexIIL"
@@ -491,6 +491,29 @@
             "description": "Adds support for 13 varietys of wood from Natura for 8 of the wooden block in BiblioCraft."
         },
         {
+            "name": "BiblioWoods ExtraBiomesXL Edition",
+            "version": "1.4",
+            "url": "packs/Genesis/files/mods/BiblioWoods[ExtraBiomesXL][v1.4].jar",
+            "file": "BiblioWoods[ExtraBiomesXL][v1.4].jar",
+            "download": "server",
+            "md5": "dd52fa806eb6d49297800da8a93bf861",
+            "filesize": 183531,
+            "website": "http://www.bibliocraftmod.com",
+            "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NLK9SWM3U77XS",
+            "authors": [
+                "Joseph 'Nuchaz' Sinclair"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Adds support for 9 varietys of wood from ExtraBiomesXL for 8 of the wooden block in BiblioCraft."
+        },
+        {
             "name": "Big Reactors",
             "version": "0.4.3A",
             "url": "packs/Genesis/files/mods/BigReactors-0.4.3A.jar",
@@ -515,11 +538,11 @@
         {
             "name": "Blood Magic: Alchemical Wizardry",
             "version": "v1.3.0Beta(1.7.10)",
-            "url": "packs/Genesis/files/mods/BloodMagic-1.7.10-1.3.1-7.jar",
-            "file": "BloodMagic-1.7.10-1.3.1-7.jar",
+            "url": "packs/Genesis/files/mods/BloodMagic-1.7.10-1.3.2-1.jar",
+            "file": "BloodMagic-1.7.10-1.3.2-1.jar",
             "download": "server",
-            "md5": "2f0626fb67333ec8905a126fb760293d",
-            "filesize": 6664932,
+            "md5": "1438484cad8f74ceb537cf3b4b579b8b",
+            "filesize": 3396595,
             "website": "http://www.minecraftforum.net/topic/1899223-",
             "authors": [
                 "WayofTime"
@@ -562,12 +585,12 @@
         },
         {
             "name": "Botania",
-            "version": "r1.6-176",
-            "url": "packs/Genesis/files/mods/Botania r1.6-176.jar",
-            "file": "Botania r1.6-176.jar",
+            "version": "r1.6-181",
+            "url": "packs/Genesis/files/mods/Botania r1.6-181.jar",
+            "file": "Botania r1.6-181.jar",
             "download": "server",
-            "md5": "4512b14b5b83a542496b206bd3dde578",
-            "filesize": 14220571,
+            "md5": "6af05ea0124e9000bb0572380e0d3087",
+            "filesize": 14271057,
             "website": "http://www.botaniamod.net",
             "authors": [
                 "Vazkii"
@@ -701,12 +724,12 @@
         },
         {
             "name": "CoFH Core",
-            "version": "3.0.0RC7",
-            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar",
-            "file": "CoFHCore-[1.7.10]3.0.0RC7-211.jar",
+            "version": "3.0.2",
+            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.2-262.jar",
+            "file": "CoFHCore-[1.7.10]3.0.2-262.jar",
             "download": "server",
-            "md5": "45906afa33c3a70d1ea7ee771384f5ff",
-            "filesize": 1029398,
+            "md5": "97048ff79d08ad7b66ce71a6c1574e7a",
+            "filesize": 1050489,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -831,12 +854,12 @@
         },
         {
             "name": "Dense Ores",
-            "version": "1.5",
-            "url": "packs/Genesis/files/mods/denseores-1.5.jar",
-            "file": "denseores-1.5.jar",
+            "version": "1.6.2",
+            "url": "packs/Genesis/files/mods/denseores-1.6.2.jar",
+            "file": "denseores-1.6.2.jar",
             "download": "server",
-            "md5": "6b168461eea76bea009505cc601da199",
-            "filesize": 51064,
+            "md5": "aab8a8aad4385de5367987d64317562c",
+            "filesize": 60626,
             "website": "http://www.curse.com/mc-mods/minecraft/224942-dense-ores",
             "authors": [
                 "RWTema"
@@ -965,6 +988,32 @@
             "description": "An advanced technological portal teleportation system"
         },
         {
+            "name": "ExtrabiomesXL",
+            "version": "3.16.0",
+            "url": "packs/Genesis/files/mods/extrabiomesxl_1.7.10-3.16.0.jar",
+            "file": "extrabiomesxl_1.7.10-3.16.0.jar",
+            "download": "server",
+            "md5": "94accb167e2ffe079d6e721f40822ecb",
+            "filesize": 873102,
+            "website": "http://www.minecraftforum.net/topic/1090288-",
+            "authors": [
+                "MisterFiber",
+                "ScottKillen",
+                "JLBShecky",
+                "allaryin",
+                "bspkrs"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "ExtrabiomesXL adds new aesthetic content that greatly enhances Minecraft's landscapes and ploration."
+        },
+        {
             "name": "ExtraCells",
             "version": "2.2.65",
             "url": "packs/Genesis/files/mods/ExtraCells-1.7.10-2.2.65b97.jar",
@@ -1051,28 +1100,6 @@
             "hidden": false,
             "library": false,
             "description": "FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support."
-        },
-        {
-            "name": "Femtocraft",
-            "version": "1.7.10-0.4.0-15-dev",
-            "url": "packs/Genesis/files/mods/femtocraft-1.7.10-0.4.0-15-dev.jar",
-            "file": "femtocraft-1.7.10-0.4.0-15-dev.jar",
-            "download": "server",
-            "md5": "d5b12e5c6762bc6c4ba107fb61a76c3b",
-            "filesize": 5781641,
-            "website": "http://femtocraft.blogspot.com",
-            "authors": [
-                "Itszuvalex"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "Late-game Tech mod for Minecraft."
         },
         {
             "name": "Forbidden Magic",
@@ -1747,12 +1774,12 @@
         },
         {
             "name": "MineChem",
-            "version": "1.7.10-5.0.5.394",
-            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.394.jar",
-            "file": "Minechem-1.7.10-5.0.5.394.jar",
+            "version": "1.7.10-5.0.5.395",
+            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.395.jar",
+            "file": "Minechem-1.7.10-5.0.5.395.jar",
             "download": "server",
-            "md5": "4eee485bf71aaad18fc52d4bafd02bb3",
-            "filesize": 1090147,
+            "md5": "ad8edde40e54fe4e934fcf2a6deee9fc",
+            "filesize": 1091776,
             "website": "http://universalelectricity.com/minechem",
             "authors": [
                 "pixlepix"
@@ -1769,12 +1796,12 @@
         },
         {
             "name": "MineFactory Reloaded",
-            "version": "[1.7.10]2.8.0RC8-88",
-            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
-            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
+            "version": "[1.7.10]2.8.0-104",
+            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+            "file": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
             "download": "server",
-            "md5": "fef7a1b24562f13f672f7f4713983861",
-            "filesize": 1688086,
+            "md5": "51f38281ef847b479f38aa5fe087be4a",
+            "filesize": 1719328,
             "website": "http://www.minecraftforum.net/topic/2016680-",
             "authors": [
                 "PowerCrystals",
@@ -1882,12 +1909,12 @@
         },
         {
             "name": "Nether Ores",
-            "version": "2.3.0RC4",
-            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0RC4-4.jar",
-            "file": "NetherOres-[1.7.10]2.3.0RC4-4.jar",
+            "version": "2.3.0",
+            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0-12.jar",
+            "file": "NetherOres-[1.7.10]2.3.0-12.jar",
             "download": "server",
-            "md5": "1449f3cf2e3f905960102a6896cef412",
-            "filesize": 79389,
+            "md5": "c8b5264bbf6670923e021fd3d6c047f7",
+            "filesize": 79555,
             "website": "http://minecraft.curseforge.com/mc-mods/netherores/",
             "authors": [
                 "PowerCrystals",
@@ -2208,12 +2235,12 @@
         },
         {
             "name": "Redstone Arsenal",
-            "version": "1.1.0RC7",
-            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
-            "file": "RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
+            "version": "1.1.0",
+            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+            "file": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
             "download": "server",
-            "md5": "26b3b5feea5f6c43c7f196a149d138a1",
-            "filesize": 313669,
+            "md5": "1c3545eb290e0ddadeba1cc36afd2814",
+            "filesize": 317947,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2254,12 +2281,12 @@
         },
         {
             "name": "RFTools",
-            "version": "2.75",
-            "url": "packs/Genesis/files/mods/rftools-2.75.jar",
-            "file": "rftools-2.75.jar",
+            "version": "2.77",
+            "url": "packs/Genesis/files/mods/rftools-2.77.jar",
+            "file": "rftools-2.77.jar",
             "download": "server",
-            "md5": "e3df311393e4f7f47023c193e4a3a9c1",
-            "filesize": 2350462,
+            "md5": "6c36c227603e0260fc61cae129943356",
+            "filesize": 2444560,
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto",
             "authors": [
                 "McJty"
@@ -2302,8 +2329,8 @@
             "url": "packs/Genesis/files/mods/resources.zip",
             "file": "resources.zip",
             "download": "server",
-            "md5": "58fa8b9eac6828e391982bb31ce53141",
-            "filesize": 15847157,
+            "md5": "8986c9b244c245b58d3ab6ba40e71e22",
+            "filesize": 20546631,
             "website": "http://www.otegamers.com",
             "type": "extract",
             "extractTo": "root",
@@ -2408,12 +2435,12 @@
         },
         {
             "name": "Stev's Addons",
-            "version": "0.10.1",
-            "url": "packs/Genesis/files/StevesAddons-1.7.10-0.10.1.jar",
-            "file": "StevesAddons-1.7.10-0.10.1.jar",
+            "version": "0.10.5",
+            "url": "packs/Genesis/files/mods/StevesAddons-1.7.10-0.10.5.jar",
+            "file": "StevesAddons-1.7.10-0.10.5.jar",
             "download": "server",
-            "md5": "e80abe6098e8dc59d5cf298ad7638e66",
-            "filesize": 240830,
+            "md5": "353e2c654cd4dbba44e5bf8242cb44fa",
+            "filesize": 265391,
             "website": "http://www.curse.com/mc-mods/minecraft/226067-steves-addons",
             "type": "mods",
             "client": true,
@@ -2610,12 +2637,12 @@
         },
         {
             "name": "Thermal Foundation",
-            "version": "1.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
-            "file": "ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar",
+            "file": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
             "download": "server",
-            "md5": "cc66b7c4ea509ae0e18ad2e6c1312a6b",
-            "filesize": 1656719,
+            "md5": "1442f906d4b9adb1d8540533da6b1b5f",
+            "filesize": 1694572,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
@@ -2632,12 +2659,12 @@
         },
         {
             "name": "Thermal Expansion",
-            "version": "4.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
-            "file": "ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
+            "version": "4.0.1",
+            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.1-182.jar",
+            "file": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
             "download": "server",
-            "md5": "a8b05ca4ecb7b15d96c1bc3add84ffb4",
-            "filesize": 2293067,
+            "md5": "d8ad94bc7743ad87e7a384f22de283ed",
+            "filesize": 2289286,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2655,12 +2682,12 @@
         },
         {
             "name": "Thermal Dynamics",
-            "version": "1.0.0RC8",
-            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
-            "file": "ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar",
+            "file": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
             "download": "server",
-            "md5": "f81f4610e65e8e5a67782a5dfcc80d4d",
-            "filesize": 411304,
+            "md5": "338c1c9100ea1e296dd0ef759a816afa",
+            "filesize": 413599,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
@@ -2741,28 +2768,6 @@
             "hidden": false,
             "library": false,
             "description": "Translocates stuff!"
-        },
-        {
-            "name": "Traveller's Gear",
-            "version": "1.15.7",
-            "url": "packs/Genesis/files/mods/TravellersGear-1.7.10-1.15.7.jar",
-            "file": "TravellersGear-1.7.10-1.15.7.jar",
-            "download": "server",
-            "md5": "b7b6dc4e40ea68ac989f768838dd6ebc",
-            "filesize": 276637,
-            "website": "http://minecraft.curseforge.com/mc-mods/224440-travellers-gear",
-            "authors": [
-                "BluSunrize"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "RPG Inventories! Armorstands! Cross-Mod Interaction! Woohoo!"
         },
         {
             "name": "ttCore",
@@ -2876,12 +2881,12 @@
         },
         {
             "name": "Witchery",
-            "version": "1.7.10-0.24.0",
-            "url": "packs/Genesis/files/mods/witchery-1.7.10-0.24.0.jar",
-            "file": "witchery-1.7.10-0.24.0.jar",
+            "version": "1.7.10-0.24.1",
+            "url": "packs/Genesis/files/mods/witchery-1.7.10-0.24.1.jar",
+            "file": "witchery-1.7.10-0.24.1.jar",
             "download": "server",
-            "md5": "33063cf8129bf1a3efd7ee6b01d26bff",
-            "filesize": 7007702,
+            "md5": "22096b8e462fa5cca3a6c8054116d4fc",
+            "filesize": 7009956,
             "website": "http://sites.google.com/site/witcherymod/",
             "authors": [
                 "Emoniph"
@@ -2895,28 +2900,6 @@
             "hidden": false,
             "library": false,
             "description": "Bringing witchcraft and nature magic to Minecraft: cauldrons, broomsticks, ritual circles, magical brews, a bit of necromancy and voodoo for good measure; all topped off with a fetching pointy hat. Oh, and watch out for the demons..."
-        },
-        {
-            "name": "Witching Gadgets",
-            "version": "1.1.3",
-            "url": "packs/Genesis/files/mods/WitchingGadgets-1.7.10-1.1.3.jar",
-            "file": "WitchingGadgets-1.7.10-1.1.3.jar",
-            "download": "server",
-            "md5": "d82f7385559cbda2ca7e5f7d2d3d3e4e",
-            "filesize": 4188382,
-            "website": "http://www.curse.com/mc-mods/minecraft/228268-witching-gadgets",
-            "authors": [
-                "BluSunrize"
-            ],
-            "type": "mods",
-            "client": true,
-            "optional": false,
-            "server": true,
-            "selected": false,
-            "recommended": true,
-            "hidden": false,
-            "library": false,
-            "description": "It's a kind of magic"
         },
         {
             "name": "Ztones",

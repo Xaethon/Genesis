@@ -44,7 +44,7 @@
               "clusterSize": 5,
               "numClusters": 12,
               "chunkChance": 14,
-              "minHeight": 3,
+              "minHeight": 16,
               "maxHeight": 64,
               "veinHeight": 4,
               "veinDiameter": 12,
@@ -464,99 +464,10 @@
         -42
       ]
     },
-    "Thorium": {
-      "template": "fractal",
-      "sparse": false,
-      "block": {"name": "Femtocraft:BlockOreThorium", "metadata": 0},
-      "material": [
-        {"name": "minecraft:stone"},
-        {"name": "chisel:marble"}
-      ],
-      "clusterSize": 5,
-      "numClusters": 10,
-      "chunkChance": 42,
-      "minHeight": 16,
-      "maxHeight": 45,
-      "veinHeight": 4,
-      "veinDiameter": 12,
-      "verticalDensity": 90,
-      "horizontalDensity": 80,
-      "retrogen": "true",
-      "biomeRestriction": "none",
-      "biomes": [],
-      "dimensionRestriction": "blacklist",
-      "dimensions": [
-        -1,
-        1,
-        7,
-        -100,
-        -37,
-        -19,
-        -42
-      ]
-    },
-    "Farenite": {
-      "template": "fractal",
-      "sparse": false,
-      "block": {"name": "Femtocraft:BlockOreFarenite", "metadata": 0},
-      "material": [
-        {"name": "minecraft:stone"},
-        {"name": "chisel:marble"}
-      ],
-      "clusterSize": 5,
-      "numClusters": 10,
-      "chunkChance": 42,
-      "minHeight": 16,
-      "maxHeight": 45,
-      "veinHeight": 4,
-      "veinDiameter": 12,
-      "verticalDensity": 90,
-      "horizontalDensity": 80,
-      "retrogen": "true",
-      "biomeRestriction": "none",
-      "biomes": [],
-      "dimensionRestriction": "blacklist",
-      "dimensions": [
-        -1,
-        1,
-        7,
-        -100,
-        -37,
-        -19,
-        -42
-      ]
-    },
-    "Titanium": {
-      "template": "fractal",
-      "sparse": false,
-      "block": {"name": "Femtocraft:BlockOreTitanium", "metadata": 0},
-      "clusterSize": 5,
-      "numClusters": 10,
-      "chunkChance": 42,
-      "minHeight": 16,
-      "maxHeight": 45,
-      "veinHeight": 4,
-      "veinDiameter": 12,
-      "verticalDensity": 90,
-      "horizontalDensity": 80,
-      "retrogen": "true",
-      "biomeRestriction": "none",
-      "biomes": [],
-      "dimensionRestriction": "blacklist",
-      "dimensions": [
-        -1,
-        1,
-        7,
-        -100,
-        -37,
-        -19,
-        -42
-      ]
-    },
     "Platinum": {
       "template": "fractal",
       "sparse": false,
-      "block": {"name": "Femtocraft:BlockOrePlatinum", "metadata": 0},
+      "block": {"name": "Metallurgy:precious.ore", "metadata": 2},
       "material": [
         {"name": "minecraft:stone"},
         {"name": "chisel:marble"}
@@ -629,7 +540,7 @@
       "clusterSize": 5,
       "numClusters": 16,
       "chunkChance": 28,
-      "minHeight": 3,
+      "minHeight": 32,
       "maxHeight": 58,
       "veinHeight": 4,
       "veinDiameter": 14,
@@ -764,8 +675,8 @@
       ],
       "clusterSize": 5,
       "numClusters": 16,
-      "chunkChance": 24,
-      "minHeight": 3,
+      "chunkChance": 16,
+      "minHeight": 32,
       "maxHeight": 58,
       "veinHeight": 4,
       "veinDiameter": 14,
@@ -916,7 +827,7 @@
       "template": "fractal",
       "sparse": false,
       "block": [
-          {"name": "Femtocraft:BlockOrePlatinum", "metadata": 0, "weight": 35},
+          {"name": "Metallurgy:precious.ore", "metadata": 2, "weight": 35},
           {"name": "Mekanism:OreBlock", "metadata": 0, "weight": 65}
       ],
       "material": [
@@ -946,10 +857,10 @@
         -42
       ]
     },
-    "uranium": {
+    "ic2uranium": {
           "template": "fractal",
           "sparse": false,
-          "block": {"name": "IC2:BlockOreUran", "metadata": 0},
+          "block": {"name": "IC2:blockOreUran", "metadata": 0},
           "material": [
             {"name": "minecraft:stone"},
             {"name": "chisel:marble"}
@@ -977,12 +888,12 @@
             -42
           ]
     },
-    "yellorite uranium": {
+    "yelloriteuranium": {
           "template": "fractal",
           "sparse": false,
           "block": [
             {"name": "BigReactors:YelloriteOre", "metadata": 0, "weight": 60},
-            {"name": "IC2:BlockOreUran", "metadata": 0, "weight": 40}
+            {"name": "IC2:blockOreUran", "metadata": 0, "weight": 40}
           ],
           "material": [
             {"name": "minecraft:stone"},
@@ -991,7 +902,7 @@
           "clusterSize": 5,
           "numClusters": 12,
           "chunkChance": 18,
-          "minHeight": 3,
+          "minHeight": 24,
           "maxHeight": 58,
           "veinHeight": 4,
           "veinDiameter": 12,
