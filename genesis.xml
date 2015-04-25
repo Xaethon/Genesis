@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>1.2.2</version>
+        <version>1.2.3</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -70,7 +70,7 @@
 
     <mod name="Blue Power" version="0.1.766" url="packs/Genesis/files/mods/BluePower-1.7.10-0.1.766-universal.jar" file="BluePower-1.7.10-0.1.766-universal.jar" md5="7f0e60dcfb30b112912db3e8a4db39ad" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/223099-blue-power" authors="Quetzi,Zness,MineMaarten,K4Unl,Amadornes" description="Work in progress mod aiming to reintroduce some missing &apos;glue&apos; blocks from prior versions of modded Minecraft" />
 
-    <mod name="Botania" version="r1.6-181" url="packs/Genesis/files/mods/Botania r1.6-181.jar" file="Botania r1.6-181.jar" md5="6af05ea0124e9000bb0572380e0d3087" download="server" type="mods" website="http://www.botaniamod.net" authors="Vazkii" description="Botania is a mod that adds nature magic to Minecraft." />
+    <mod name="Botania" version="r1.6-183" url="packs/Genesis/files/mods/Botania r1.6-183.jar" file="Botania r1.6-183.jar" md5="fe28713f5dba1f826b29b6873ba1a3e5" download="server" type="mods" website="http://www.botaniamod.net" authors="Vazkii" description="Botania is a mod that adds nature magic to Minecraft." />
 
     <mod name="Carpenter&apos;s Blocks" version="3.3.4.2" url="packs/Genesis/files/mods/Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar" file="Carpenters Blocks v3.3.4.2 - MC 1.7.10.jar" md5="aabe072b29796d74998ee9ab472b67a5" download="server" type="mods" website="http://www.carpentersblocks.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="Mineshopper" description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns." />
 
@@ -82,7 +82,7 @@
 
     <mod name="CodeChickenLib" version="1.1.1.99" url="packs/Genesis/files/mods/CodeChickenLib-1.7.10-1.1.1.99-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.99-universal.jar" md5="a9043228d7d6fc52a7cb0d1d20922ce1" download="server" type="dependency" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Needed for ChickenBones mods" />
 
-    <mod name="CoFH Core" version="3.0.2" url="packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.2-262.jar" file="CoFHCore-[1.7.10]3.0.2-262.jar" md5="97048ff79d08ad7b66ce71a6c1574e7a" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Required for all CoFH Mods. Also provides some customization options for Minecraft." />
+    <mod name="CoFH Core" version="3.0.0RC7" url="packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar" file="CoFHCore-[1.7.10]3.0.0RC7-211.jar" md5="45906afa33c3a70d1ea7ee771384f5ff" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Required for all CoFH Mods. Also provides some customization options for Minecraft." />
 
     <mod name="ComputerCraft" version="1.73" url="packs/Genesis/files/mods/ComputerCraft1.73.jar" file="ComputerCraft1.73.jar" md5="3b41b0522374ab549f516709adfdb5d8" download="server" type="mods" website="http://www.computercraft.info" donation="http://www.computercraft.info/donate/" authors="Daniel Ratcliffe,Aaron Mills" description="ComputerCraft adds Computers, Programming and Robotics to Minecraft." />
 
@@ -130,6 +130,20 @@
 
     <mod name="GraviGun" version="4.0.0-beta" url="packs/Genesis/files/mods/GravityGun-4.0.0-beta.jar" file="GravityGun-4.0.0-beta.jar" md5="ac70a43a82eac9488caecb6a11d5e040" download="server" type="mods" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Adds the HL2 Gravity Gun to Minecraft" />
 
+    <mod name="Growthcraft Apples" version="2.1.0" url="packs/Genesis/files/mods/growthcraft-apples-1.7.10-2.1.0.jar" file="growthcraft-apples-1.7.10-2.1.0.jar" md5="9d07164344883e4c0bf500531fabebfd" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Apples is a mod which changes how apples are farmed in-game. In addition to this, it also adds Apple Ciders as a new product from apples." />
+
+    <mod name="Growthcraft Bamboo" version="2.1.0" url="packs/Genesis/files/mods/growthcraft-bamboo-1.7.10-2.1.0.jar" file="growthcraft-bamboo-1.7.10-2.1.0.jar" md5="e1a09f4fe76a80621f48042ea967b8db" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Bamboo is a mod which adds a new plant to the game: bamboos, which focuses on construction rather food." />
+
+    <mod name="Growthcraft Cellar" version="2.1.0a" url="packs/Genesis/files/mods/growthcraft-cellar-1.7.10-2.1.0a.jar" file="growthcraft-cellar-1.7.10-2.1.0a.jar" md5="4a6f42229072eecdea2829957ec964af" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Cellar is a mod which adds a new in-game hobby: brewing alcoholic beverages." />
+
+    <mod name="Growthcraft" version="2.1.0a" url="packs/Genesis/files/mods/growthcraft-core-1.7.10-2.1.0a.jar" file="growthcraft-core-1.7.10-2.1.0a.jar" md5="05d64d9f59b3ccd2f6464b8797024639" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Core is as a mod which acts a central hub for the other mods. It will provide of resources needed in common by two or more Growthcraft mods." />
+
+    <mod name="Growthcraft Grapes" version="2.1.0" url="packs/Genesis/files/mods/growthcraft-grapes-1.7.10-2.1.0.jar" file="growthcraft-grapes-1.7.10-2.1.0.jar" md5="8618e01c4efd64d2c6ab9ac5d8f84f6f" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Grapes is a mod which adds a new totally crop to the game: grapes. It also comes with Wine-making." />
+
+    <mod name="Growthcraft Hops" version="2.1.0" url="packs/Genesis/files/mods/growthcraft-hops-1.7.10-2.1.0.jar" file="growthcraft-hops-1.7.10-2.1.0.jar" md5="ae73f9c73ca2249e84bdad038cc2daf2" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Hops is a mod which adds a new crop to the game, hops. It also comes with Ale-brewing. " />
+
+    <mod name="Growthcraft Rice" version="2.1.0a" url="packs/Genesis/files/mods/growthcraft-rice-1.7.10-2.1.0a.jar" file="growthcraft-rice-1.7.10-2.1.0a.jar" md5="43d71a38543c8d7202e0c4ba2c33ac8c" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-/" authors="Gwafu" description="Growthcraft Rice is a mod which adds a new crop; rice. Alongside it also comes a new brew type; sake." />
+
     <mod name="IC2 Advanced Machines Addon" version="1.7.10" url="packs/Genesis/files/mods/AdvancedMachinesAS-1.7.10.jar" file="AdvancedMachinesAS-1.7.10.jar" md5="6fdf181914caca8b83c4fd8fa49f6e07" download="server" type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=4907" authors="AtomicStryker" description="Some additional Machines for the electrical Connoisseur" />
 
     <mod name="Ic2Lib" version="2.2.688" url="packs/Genesis/files/mods/ejml-0.23.jar" file="ejml-0.23.jar" md5="2773bb49335358b2d042ac50690ea5d7" download="server" type="ic2lib" website="http://code.google.com/p/efficient-java-matrix-library/" description="Ic2 Library" />
@@ -146,7 +160,7 @@
 
     <mod name="INpureCore" version="1.0" url="packs/Genesis/files/mods/INpureCore-[1.7.10]1.0.0B9-54.jar" file="INpureCore-[1.7.10]1.0.0B9-54.jar" md5="ca4b6475269d69074063d85bc3814a57" download="server" type="mods" optional="yes" website="https://github.com/INpureProjects" authors="denoflionsx" description="Core mod for INpure Projects" />
 
-    <mod name="Inventory Tweaks" version="1.58-147-645ca10" url="packs/Genesis/files/mods/InventoryTweaks-1.58-147.jar" file="InventoryTweaks-1.58-147.jar" md5="c5d9271ea4afb47deae8c71f8bae61a1" download="server" type="mods" optional="yes" website="https://github.com/Kobata/inventory-tweaks" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
+    <mod name="Inventory Tweaks" version="1.59-dev-152-cf6e263" url="packs/Genesis/files/mods/InventoryTweaks-1.59-dev-152.jar" file="InventoryTweaks-1.59-dev-152.jar" md5="83f7ddcd5f5fd8d640aa15dc62acc6bf" download="server" type="mods" optional="yes" website="https://github.com/Kobata/inventory-tweaks" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
 
     <mod name="Iron Chest" version="6.0.62.742" url="packs/Genesis/files/mods/ironchest-1.7.10-6.0.62.742-universal.jar" file="ironchest-1.7.10-6.0.62.742-universal.jar" md5="48d942594459c437ce8e8648ca42a7b9" download="server" type="mods" website="http://www.minecraftforum.net/topic/981855-" authors="cpw" description="New chests with larger sizes, with in-place upgrade items." />
 
@@ -158,7 +172,7 @@
 
     <mod name="MalisisCore" version="1.7.10-0.11.4" url="packs/Genesis/files/mods/malisiscore-1.7.10-0.11.4.jar" file="malisiscore-1.7.10-0.11.4.jar" md5="50dd5bd2e9b1b5eb0f6889232528391e" download="server" type="mods" website="http://github.com/Ordinastie/MalisisCore" authors="Ordinastie,PaleoCrafter" description="MalisisCore is a framework dedicated to simplify many processes required during a mod development." />
 
-    <mod name="Malisis&apos; Doors" version="1.7.10-1.5.1" url="packs/Genesis/files/mods/malisisdoors-1.7.10-1.5.1.jar" file="malisisdoors-1.7.10-1.5.1.jar" md5="94ea4a2c6c3b08cd9cd180e3c5923acc" download="server" type="mods" website="http://github.com/ordinastie" authors="Ordinastie" description="Better doors!" />
+    <mod name="Malisis&apos; Doors" version="1.7.10-1.7" url="packs/Genesis/files/mods/malisisdoors-1.7.10-1.7.1.jar" file="malisisdoors-1.7.10-1.7.1.jar" md5="15dd8058712e12e6e851f94c0ce8917d" download="server" type="mods" website="http://github.com/ordinastie" authors="Ordinastie" description="Better doors!" />
 
     <mod name="Mantle" version="0.3.2.jenkins184" url="packs/Genesis/files/mods/Mantle-1.7.10-0.3.2.jar" file="Mantle-1.7.10-0.3.2.jar" md5="3f360f0fb92cfb252235fe99ddfc7495" download="server" type="mods" website="https://github.com/SlimeKnights/Mantle" authors="mDiyo,Sunstrike,progWML6" description="Shared code for Slime Knights mods and others." />
 
@@ -176,7 +190,7 @@
 
     <mod name="MineChem" version="1.7.10-5.0.5.395" url="packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.395.jar" file="Minechem-1.7.10-5.0.5.395.jar" md5="ad8edde40e54fe4e934fcf2a6deee9fc" download="server" type="mods" website="http://universalelectricity.com/minechem" authors="pixlepix" description="Chemical industry in Minecraft!" />
 
-    <mod name="MineFactory Reloaded" version="[1.7.10]2.8.0-104" url="packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0-104.jar" file="MineFactoryReloaded-[1.7.10]2.8.0-104.jar" md5="51f38281ef847b479f38aa5fe087be4a" download="server" type="mods" website="http://www.minecraftforum.net/topic/2016680-" authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026" description="Automate everything!" />
+    <mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC8-88" url="packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar" md5="fef7a1b24562f13f672f7f4713983861" download="server" type="mods" website="http://www.minecraftforum.net/topic/2016680-" authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026" description="Automate everything!" />
 
     <mod name="MineTweaker 3" version="1.7.10-3.0.9C" url="packs/Genesis/files/mods/MineTweaker3-1.7.10-3.0.9C.jar" file="MineTweaker3-1.7.10-3.0.9C.jar" md5="fa05f1671f4cce65c9497c81e9212cca" download="server" type="mods" website="http://minetweaker3.powerofbytes.com" authors="Stan Hebben" description="Customize your minecraft experience!" />
 
@@ -186,7 +200,7 @@
 
     <mod name="NEI Addons" version="1.12.3.11" url="packs/Genesis/files/mods/neiaddons-mc1710-1.12.3.11.jar" file="neiaddons-mc1710-1.12.3.11.jar" md5="028c830d178f803963fc1fde06c6256c" download="server" type="mods" website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
 
-    <mod name="Nether Ores" version="2.3.0" url="packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0-12.jar" file="NetherOres-[1.7.10]2.3.0-12.jar" md5="c8b5264bbf6670923e021fd3d6c047f7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/netherores/" authors="PowerCrystals,TehKrush,AtomicStryker,skyboy026" description="Introduces mineable yet dangerous ores to the Nether" />
+    <mod name="Nether Ores" version="2.3.0RC4" url="packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0RC4-4.jar" file="NetherOres-[1.7.10]2.3.0RC4-4.jar" md5="1449f3cf2e3f905960102a6896cef412" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/netherores/" authors="PowerCrystals,TehKrush,AtomicStryker,skyboy026" description="Introduces mineable yet dangerous ores to the Nether" />
 
     <mod name="NotEnoughItems" version="1.0.4.79" url="packs/Genesis/files/mods/NotEnoughItems-1.7.10-1.0.4.79-universal.jar" file="NotEnoughItems-1.7.10-1.0.4.79-universal.jar" md5="dd941d67f6ec02da9d71b05592ea7735" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
 
@@ -214,11 +228,11 @@
 
     <mod name="Random Things" version="2.2.4" url="packs/Genesis/files/mods/RandomThings-2.2.4.jar" file="RandomThings-2.2.4.jar" md5="45c948a0954aa78bb5c23801aa5d9eb7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="Random Things packed into one Mod." />
 
-    <mod name="Redstone Arsenal" version="1.1.0" url="packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar" file="RedstoneArsenal-[1.7.10]1.1.0-80.jar" md5="1c3545eb290e0ddadeba1cc36afd2814" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
+    <mod name="Redstone Arsenal" version="1.1.0RC7" url="packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar" md5="26b3b5feea5f6c43c7f196a149d138a1" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!" />
 
     <mod name="Resource Loader" version="1.0" url="packs/Genesis/files/mods/ResourceLoader-1.0.jar" file="ResourceLoader-1.0.jar" md5="763b96c9b97f1a1492ccabb9d7d7b97c" download="server" type="mods" server="no" website="http://www.curse.com/mc-mods/minecraft/226447-resource-loader" authors="lumien" description="Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack." />
 
-    <mod name="RFTools" version="2.77" url="packs/Genesis/files/mods/rftools-2.77.jar" file="rftools-2.77.jar" md5="6c36c227603e0260fc61cae129943356" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto" authors="McJty" description="RedFlux tools" />
+    <mod name="RFTools" version="2.80" url="packs/Genesis/files/mods/rftools-2.80.jar" file="rftools-2.80.jar" md5="62677965f1c45c5c731014d2f2fb278f" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto" authors="McJty" description="RedFlux tools" />
 
     <mod name="Realistic World Gen Alpha" version="alpha-1.3.2" url="packs/Genesis/files/mods/RWG-alpha-1.3.2.jar" file="RWG-alpha-1.3.2.jar" md5="0617d5693882c1dc82b9b6f59d5c537b" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3" authors="ted80" description="Adds a new realistic worldtype" />
 
@@ -248,19 +262,19 @@
 
     <mod name="Thaumic Tinkerer" version="2.5-1.7.10-479" url="packs/Genesis/files/mods/ThaumicTinkerer-2.5-1.7.10-479.jar" file="ThaumicTinkerer-2.5-1.7.10-479.jar" md5="5b4b02b4a9df67bcf7855b449926fd48" download="server" type="mods" website="http://minecraftforum.net/topic/1813058-" authors="pixlepix,nekosune" description="An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT]." />
 
-    <mod name="Erebus" version="0.2pre12" url="packs/Genesis/files/mods/TheErebus-0.2pre12.jar" file="TheErebus-0.2pre12.jar" md5="e528de2c9101f25c2c6c871c14da837d" download="server" type="mods" website="http://www.minecraftforum.net/topic/1652014-/" authors="Mod designed by Dylan4Ever" description="Discover a world ruled by insects, the Erebus is a place to explore, mine and build
+    <mod name="Erebus" version="0.2a" url="packs/Genesis/files/mods/TheErebus-0.2a.jar" file="TheErebus-0.2a.jar" md5="63f54f228fd1aa3f1456e4d89b2d693e" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153" authors="Mod designed by Dylan4Ever" description="Discover a world ruled by insects, the Erebus is a place to explore, mine and build
 
--Programmers: chylex, ganymedes01, vadis365, TheCricket26, iLexiconn
+-Programmers: chylex, ganymedes01, vadis365, SMEZ1234
 
--Modelers: vadis365, tripleheadedsheep
+-Modelers: vadis365, DylanGK
 
 -Sound designers: voog2" />
 
-    <mod name="Thermal Foundation" version="1.0.0" url="packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar" file="ThermalFoundation-[1.7.10]1.0.0-81.jar" md5="1442f906d4b9adb1d8540533da6b1b5f" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The foundation of a Thermally enhanced world!" />
+    <mod name="Thermal Foundation" version="1.0.0RC7" url="packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar" file="ThermalFoundation-[1.7.10]1.0.0RC7-62.jar" md5="cc66b7c4ea509ae0e18ad2e6c1312a6b" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="The foundation of a Thermally enhanced world!" />
 
-    <mod name="Thermal Expansion" version="4.0.1" url="packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.1-182.jar" file="ThermalExpansion-[1.7.10]4.0.1-182.jar" md5="d8ad94bc7743ad87e7a384f22de283ed" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Expanding Minecraft Thermally - provides new options for automation and processing!" />
+    <mod name="Thermal Expansion" version="4.0.0RC7" url="packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar" file="ThermalExpansion-[1.7.10]4.0.0RC7-141.jar" md5="a8b05ca4ecb7b15d96c1bc3add84ffb4" download="server" type="mods" website="http://www.teamcofh.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="Team CoFH" description="Expanding Minecraft Thermally - provides new options for automation and processing!" />
 
-    <mod name="Thermal Dynamics" version="1.0.0" url="packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar" file="ThermalDynamics-[1.7.10]1.0.0-122.jar" md5="338c1c9100ea1e296dd0ef759a816afa" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" />
+    <mod name="Thermal Dynamics" version="1.0.0RC8" url="packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar" file="ThermalDynamics-[1.7.10]1.0.0RC8-105.jar" md5="f81f4610e65e8e5a67782a5dfcc80d4d" download="server" type="mods" website="http://www.teamcofh.com" authors="Team CoFH" description="Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!" />
 
     <mod name="Thermal Smeltery" version="1.7.10-1.1.2" url="packs/Genesis/files/mods/ThermalSmeltery-1.7.10-1.1.2.jar" file="ThermalSmeltery-1.7.10-1.1.2.jar" md5="b52b58b577753f4c8afabc715643626e" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2352947-thermal-smeltery" authors="Drullkus" description="Thermal Smeltery Description" />
 

@@ -1,5 +1,5 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -585,12 +585,12 @@
         },
         {
             "name": "Botania",
-            "version": "r1.6-181",
-            "url": "packs/Genesis/files/mods/Botania r1.6-181.jar",
-            "file": "Botania r1.6-181.jar",
+            "version": "r1.6-183",
+            "url": "packs/Genesis/files/mods/Botania r1.6-183.jar",
+            "file": "Botania r1.6-183.jar",
             "download": "server",
-            "md5": "6af05ea0124e9000bb0572380e0d3087",
-            "filesize": 14271057,
+            "md5": "fe28713f5dba1f826b29b6873ba1a3e5",
+            "filesize": 14351343,
             "website": "http://www.botaniamod.net",
             "authors": [
                 "Vazkii"
@@ -724,12 +724,12 @@
         },
         {
             "name": "CoFH Core",
-            "version": "3.0.2",
-            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.2-262.jar",
-            "file": "CoFHCore-[1.7.10]3.0.2-262.jar",
+            "version": "3.0.0RC7",
+            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar",
+            "file": "CoFHCore-[1.7.10]3.0.0RC7-211.jar",
             "download": "server",
-            "md5": "97048ff79d08ad7b66ce71a6c1574e7a",
-            "filesize": 1050489,
+            "md5": "45906afa33c3a70d1ea7ee771384f5ff",
+            "filesize": 1029398,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -1267,6 +1267,160 @@
             "description": "Adds the HL2 Gravity Gun to Minecraft"
         },
         {
+            "name": "Growthcraft Apples",
+            "version": "2.1.0",
+            "url": "packs/Genesis/files/mods/growthcraft-apples-1.7.10-2.1.0.jar",
+            "file": "growthcraft-apples-1.7.10-2.1.0.jar",
+            "download": "server",
+            "md5": "9d07164344883e4c0bf500531fabebfd",
+            "filesize": 43122,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Apples is a mod which changes how apples are farmed in-game. In addition to this, it also adds Apple Ciders as a new product from apples."
+        },
+        {
+            "name": "Growthcraft Bamboo",
+            "version": "2.1.0",
+            "url": "packs/Genesis/files/mods/growthcraft-bamboo-1.7.10-2.1.0.jar",
+            "file": "growthcraft-bamboo-1.7.10-2.1.0.jar",
+            "download": "server",
+            "md5": "e1a09f4fe76a80621f48042ea967b8db",
+            "filesize": 104444,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Bamboo is a mod which adds a new plant to the game: bamboos, which focuses on construction rather food."
+        },
+        {
+            "name": "Growthcraft Cellar",
+            "version": "2.1.0a",
+            "url": "packs/Genesis/files/mods/growthcraft-cellar-1.7.10-2.1.0a.jar",
+            "file": "growthcraft-cellar-1.7.10-2.1.0a.jar",
+            "download": "server",
+            "md5": "4a6f42229072eecdea2829957ec964af",
+            "filesize": 156571,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Cellar is a mod which adds a new in-game hobby: brewing alcoholic beverages."
+        },
+        {
+            "name": "Growthcraft",
+            "version": "2.1.0a",
+            "url": "packs/Genesis/files/mods/growthcraft-core-1.7.10-2.1.0a.jar",
+            "file": "growthcraft-core-1.7.10-2.1.0a.jar",
+            "download": "server",
+            "md5": "05d64d9f59b3ccd2f6464b8797024639",
+            "filesize": 63516,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Core is as a mod which acts a central hub for the other mods. It will provide of resources needed in common by two or more Growthcraft mods."
+        },
+        {
+            "name": "Growthcraft Grapes",
+            "version": "2.1.0",
+            "url": "packs/Genesis/files/mods/growthcraft-grapes-1.7.10-2.1.0.jar",
+            "file": "growthcraft-grapes-1.7.10-2.1.0.jar",
+            "download": "server",
+            "md5": "8618e01c4efd64d2c6ab9ac5d8f84f6f",
+            "filesize": 59589,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Grapes is a mod which adds a new totally crop to the game: grapes. It also comes with Wine-making."
+        },
+        {
+            "name": "Growthcraft Hops",
+            "version": "2.1.0",
+            "url": "packs/Genesis/files/mods/growthcraft-hops-1.7.10-2.1.0.jar",
+            "file": "growthcraft-hops-1.7.10-2.1.0.jar",
+            "download": "server",
+            "md5": "ae73f9c73ca2249e84bdad038cc2daf2",
+            "filesize": 41101,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Hops is a mod which adds a new crop to the game, hops. It also comes with Ale-brewing. "
+        },
+        {
+            "name": "Growthcraft Rice",
+            "version": "2.1.0a",
+            "url": "packs/Genesis/files/mods/growthcraft-rice-1.7.10-2.1.0a.jar",
+            "file": "growthcraft-rice-1.7.10-2.1.0a.jar",
+            "download": "server",
+            "md5": "43d71a38543c8d7202e0c4ba2c33ac8c",
+            "filesize": 40386,
+            "website": "http://www.minecraftforum.net/topic/1510394-/",
+            "authors": [
+                "Gwafu"
+            ],
+            "type": "mods",
+            "client": true,
+            "optional": false,
+            "server": true,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "Growthcraft Rice is a mod which adds a new crop; rice. Alongside it also comes a new brew type; sake."
+        },
+        {
             "name": "IC2 Advanced Machines Addon",
             "version": "1.7.10",
             "url": "packs/Genesis/files/mods/AdvancedMachinesAS-1.7.10.jar",
@@ -1459,12 +1613,12 @@
         },
         {
             "name": "Inventory Tweaks",
-            "version": "1.58-147-645ca10",
-            "url": "packs/Genesis/files/mods/InventoryTweaks-1.58-147.jar",
-            "file": "InventoryTweaks-1.58-147.jar",
+            "version": "1.59-dev-152-cf6e263",
+            "url": "packs/Genesis/files/mods/InventoryTweaks-1.59-dev-152.jar",
+            "file": "InventoryTweaks-1.59-dev-152.jar",
             "download": "server",
-            "md5": "c5d9271ea4afb47deae8c71f8bae61a1",
-            "filesize": 221921,
+            "md5": "83f7ddcd5f5fd8d640aa15dc62acc6bf",
+            "filesize": 224461,
             "website": "https://github.com/Kobata/inventory-tweaks",
             "authors": [
                 "Jimeo Wan",
@@ -1591,12 +1745,12 @@
         },
         {
             "name": "Malisis' Doors",
-            "version": "1.7.10-1.5.1",
-            "url": "packs/Genesis/files/mods/malisisdoors-1.7.10-1.5.1.jar",
-            "file": "malisisdoors-1.7.10-1.5.1.jar",
+            "version": "1.7.10-1.7",
+            "url": "packs/Genesis/files/mods/malisisdoors-1.7.10-1.7.1.jar",
+            "file": "malisisdoors-1.7.10-1.7.1.jar",
             "download": "server",
-            "md5": "94ea4a2c6c3b08cd9cd180e3c5923acc",
-            "filesize": 1284364,
+            "md5": "15dd8058712e12e6e851f94c0ce8917d",
+            "filesize": 1300362,
             "website": "http://github.com/ordinastie",
             "authors": [
                 "Ordinastie"
@@ -1796,12 +1950,12 @@
         },
         {
             "name": "MineFactory Reloaded",
-            "version": "[1.7.10]2.8.0-104",
-            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
-            "file": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+            "version": "[1.7.10]2.8.0RC8-88",
+            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
+            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
             "download": "server",
-            "md5": "51f38281ef847b479f38aa5fe087be4a",
-            "filesize": 1719328,
+            "md5": "fef7a1b24562f13f672f7f4713983861",
+            "filesize": 1688086,
             "website": "http://www.minecraftforum.net/topic/2016680-",
             "authors": [
                 "PowerCrystals",
@@ -1909,12 +2063,12 @@
         },
         {
             "name": "Nether Ores",
-            "version": "2.3.0",
-            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0-12.jar",
-            "file": "NetherOres-[1.7.10]2.3.0-12.jar",
+            "version": "2.3.0RC4",
+            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0RC4-4.jar",
+            "file": "NetherOres-[1.7.10]2.3.0RC4-4.jar",
             "download": "server",
-            "md5": "c8b5264bbf6670923e021fd3d6c047f7",
-            "filesize": 79555,
+            "md5": "1449f3cf2e3f905960102a6896cef412",
+            "filesize": 79389,
             "website": "http://minecraft.curseforge.com/mc-mods/netherores/",
             "authors": [
                 "PowerCrystals",
@@ -2235,12 +2389,12 @@
         },
         {
             "name": "Redstone Arsenal",
-            "version": "1.1.0",
-            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar",
-            "file": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+            "version": "1.1.0RC7",
+            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
+            "file": "RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
             "download": "server",
-            "md5": "1c3545eb290e0ddadeba1cc36afd2814",
-            "filesize": 317947,
+            "md5": "26b3b5feea5f6c43c7f196a149d138a1",
+            "filesize": 313669,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2281,12 +2435,12 @@
         },
         {
             "name": "RFTools",
-            "version": "2.77",
-            "url": "packs/Genesis/files/mods/rftools-2.77.jar",
-            "file": "rftools-2.77.jar",
+            "version": "2.80",
+            "url": "packs/Genesis/files/mods/rftools-2.80.jar",
+            "file": "rftools-2.80.jar",
             "download": "server",
-            "md5": "6c36c227603e0260fc61cae129943356",
-            "filesize": 2444560,
+            "md5": "62677965f1c45c5c731014d2f2fb278f",
+            "filesize": 2403079,
             "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-auto",
             "authors": [
                 "McJty"
@@ -2615,13 +2769,13 @@
         },
         {
             "name": "Erebus",
-            "version": "0.2pre12",
-            "url": "packs/Genesis/files/mods/TheErebus-0.2pre12.jar",
-            "file": "TheErebus-0.2pre12.jar",
+            "version": "0.2a",
+            "url": "packs/Genesis/files/mods/TheErebus-0.2a.jar",
+            "file": "TheErebus-0.2a.jar",
             "download": "server",
-            "md5": "e528de2c9101f25c2c6c871c14da837d",
-            "filesize": 10510221,
-            "website": "http://www.minecraftforum.net/topic/1652014-/",
+            "md5": "63f54f228fd1aa3f1456e4d89b2d693e",
+            "filesize": 11273232,
+            "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153",
             "authors": [
                 "Mod designed by Dylan4Ever"
             ],
@@ -2633,16 +2787,16 @@
             "recommended": true,
             "hidden": false,
             "library": false,
-            "description": "Discover a world ruled by insects, the Erebus is a place to explore, mine and build  -Programmers: chylex, ganymedes01, vadis365, TheCricket26, iLexiconn  -Modelers: vadis365, tripleheadedsheep  -Sound designers: voog2"
+            "description": "Discover a world ruled by insects, the Erebus is a place to explore, mine and build  -Programmers: chylex, ganymedes01, vadis365, SMEZ1234  -Modelers: vadis365, DylanGK  -Sound designers: voog2"
         },
         {
             "name": "Thermal Foundation",
-            "version": "1.0.0",
-            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar",
-            "file": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
+            "version": "1.0.0RC7",
+            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
+            "file": "ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
             "download": "server",
-            "md5": "1442f906d4b9adb1d8540533da6b1b5f",
-            "filesize": 1694572,
+            "md5": "cc66b7c4ea509ae0e18ad2e6c1312a6b",
+            "filesize": 1656719,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
@@ -2659,12 +2813,12 @@
         },
         {
             "name": "Thermal Expansion",
-            "version": "4.0.1",
-            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.1-182.jar",
-            "file": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
+            "version": "4.0.0RC7",
+            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
+            "file": "ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
             "download": "server",
-            "md5": "d8ad94bc7743ad87e7a384f22de283ed",
-            "filesize": 2289286,
+            "md5": "a8b05ca4ecb7b15d96c1bc3add84ffb4",
+            "filesize": 2293067,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2682,12 +2836,12 @@
         },
         {
             "name": "Thermal Dynamics",
-            "version": "1.0.0",
-            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar",
-            "file": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
+            "version": "1.0.0RC8",
+            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
+            "file": "ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
             "download": "server",
-            "md5": "338c1c9100ea1e296dd0ef759a816afa",
-            "filesize": 413599,
+            "md5": "f81f4610e65e8e5a67782a5dfcc80d4d",
+            "filesize": 411304,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
