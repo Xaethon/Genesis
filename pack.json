@@ -1,5 +1,5 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "minecraft": "1.7.10",
     "mainClass": {
         "mainClass": "net.minecraft.launchwrapper.Launch"
@@ -14,6 +14,9 @@
                 "target": "scripts"
             }
         ]
+    },
+    "warnings": {
+        "warning": "WILL PROBABLY CAUSE CRASHES. USE AT YOUR OWN RISK. DO NOT USE WITH FASTCRAFT!"
     },
     "libraries": [
         {
@@ -155,15 +158,16 @@
         {
             "name": "Technomancy",
             "version": "1.0",
-            "url": "packs/Genesis/files/mods/1.7.10 TECHNOMANCY 0.9.0 BETA-G.jar",
-            "file": "1.7.10 TECHNOMANCY 0.9.0 BETA-G.jar",
+            "url": "packs/Genesis/files/mods/Technomancy - 0.10.g - 1.7.10.jar",
+            "file": "Technomancy - 0.10.g - 1.7.10.jar",
             "download": "server",
-            "md5": "7b4590c6665f51be882f01361b645958",
-            "filesize": 3141862,
-            "website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1446073-0-5-1-technomancy",
+            "md5": "a16ba06014049437c36405b9ec9833b2",
+            "filesize": 623709,
+            "website": "http://forum.feed-the-beast.com/threads/0-5-1-technomancy-discussion-ore-processing-like-a-boss.40277/",
             "authors": [
                 "Democretes",
-                "theflogat"
+                "theflogat",
+                "Mordenkainen"
             ],
             "type": "mods",
             "client": true,
@@ -445,6 +449,26 @@
             "description": "A better loading screen that shows you the status of minecraft's loading time"
         },
         {
+            "name": "BetterFPS",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/BetterFps-1.0.0.jar",
+            "file": "BetterFps-1.0.0.jar",
+            "download": "server",
+            "md5": "a7839cfd7c3b891badc9aeba1dbbaacb",
+            "filesize": 18141,
+            "website": "http://minecraft.curseforge.com/mc-mods/229876-betterfps",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": false,
+            "serverSeparate": false,
+            "selected": false,
+            "recommended": true,
+            "hidden": false,
+            "library": false,
+            "description": "BetterFps is a Minecraft mod that changes how Minecraft calculates sine and cosine, giving a performance boost."
+        },
+        {
             "name": "BiblioCraft",
             "version": "1.10.2",
             "url": "packs/Genesis/files/mods/BiblioCraft[v1.10.2][MC1.7.10].jar",
@@ -585,12 +609,12 @@
         },
         {
             "name": "Botania",
-            "version": "r1.6-183",
-            "url": "packs/Genesis/files/mods/Botania r1.6-183.jar",
-            "file": "Botania r1.6-183.jar",
+            "version": "r1.6-187",
+            "url": "packs/Genesis/files/mods/Botania r1.6-187.jar",
+            "file": "Botania r1.6-187.jar",
             "download": "server",
-            "md5": "fe28713f5dba1f826b29b6873ba1a3e5",
-            "filesize": 14351343,
+            "md5": "295a894f06c9043d46bdf5296b16ef13",
+            "filesize": 14451002,
             "website": "http://www.botaniamod.net",
             "authors": [
                 "Vazkii"
@@ -724,12 +748,12 @@
         },
         {
             "name": "CoFH Core",
-            "version": "3.0.0RC7",
-            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.0RC7-211.jar",
-            "file": "CoFHCore-[1.7.10]3.0.0RC7-211.jar",
+            "version": "3.0.2",
+            "url": "packs/Genesis/files/mods/CoFHCore-[1.7.10]3.0.2-262.jar",
+            "file": "CoFHCore-[1.7.10]3.0.2-262.jar",
             "download": "server",
-            "md5": "45906afa33c3a70d1ea7ee771384f5ff",
-            "filesize": 1029398,
+            "md5": "97048ff79d08ad7b66ce71a6c1574e7a",
+            "filesize": 1050489,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -744,6 +768,27 @@
             "hidden": false,
             "library": false,
             "description": "Required for all CoFH Mods. Also provides some customization options for Minecraft."
+        },
+        {
+            "name": "CoFH Tweaks",
+            "version": "B1-24",
+            "url": "packs/Genesis/files/mods/CoFHTweaks-[1.7.10]0.1.0B1-24.jar",
+            "file": "CoFHTweaks-[1.7.10]0.1.0B1-24.jar",
+            "download": "server",
+            "md5": "1e17926729600d719b1494bb6523f1b2",
+            "filesize": 65550,
+            "website": "http://www.teamcofh.com",
+            "warning": "warning",
+            "type": "mods",
+            "client": true,
+            "optional": true,
+            "server": false,
+            "serverSeparate": false,
+            "selected": false,
+            "recommended": false,
+            "hidden": false,
+            "library": false,
+            "description": "Performance Improvements"
         },
         {
             "name": "ComputerCraft",
@@ -1178,11 +1223,11 @@
         {
             "name": "Galacticraft Core",
             "version": "3.0.11",
-            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.11.318.jar",
-            "file": "GalacticraftCore-1.7-3.0.11.318.jar",
+            "url": "packs/Genesis/files/mods/GalacticraftCore-1.7-3.0.11.325.jar",
+            "file": "GalacticraftCore-1.7-3.0.11.325.jar",
             "download": "server",
-            "md5": "545bd6d49b5c371acadf34fa79f2b82f",
-            "filesize": 11075686,
+            "md5": "bf09eec53c1cf8b47ec4184aa33b332d",
+            "filesize": 11093642,
             "website": "http://www.micdoodle8.com/",
             "authors": [
                 "micdoodle8",
@@ -1202,11 +1247,11 @@
         {
             "name": "Galacticraft Planets",
             "version": "3.0.11",
-            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.11.318.jar",
-            "file": "Galacticraft-Planets-1.7-3.0.11.318.jar",
+            "url": "packs/Genesis/files/mods/Galacticraft-Planets-1.7-3.0.11.325.jar",
+            "file": "Galacticraft-Planets-1.7-3.0.11.325.jar",
             "download": "server",
-            "md5": "9040f6f4862fce03b6bbce8d2dc805ad",
-            "filesize": 3357268,
+            "md5": "bcef8143b569315c4954736aeacbbd89",
+            "filesize": 3377485,
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
             "authors": [
@@ -1592,11 +1637,11 @@
         {
             "name": "INpureCore",
             "version": "1.0",
-            "url": "packs/Genesis/files/mods/INpureCore-[1.7.10]1.0.0B9-54.jar",
-            "file": "INpureCore-[1.7.10]1.0.0B9-54.jar",
+            "url": "packs/Genesis/files/mods/INpureCore-[1.7.10]1.0.0B9-60.jar",
+            "file": "INpureCore-[1.7.10]1.0.0B9-60.jar",
             "download": "server",
-            "md5": "ca4b6475269d69074063d85bc3814a57",
-            "filesize": 129195,
+            "md5": "bee2895590b86f0c7e3ca5e13168c1d8",
+            "filesize": 126857,
             "website": "https://github.com/INpureProjects",
             "authors": [
                 "denoflionsx"
@@ -1658,12 +1703,12 @@
         },
         {
             "name": "Infinitely Tweakable Armor",
-            "version": "0.1.6",
-            "url": "packs/Genesis/files/mods/ITA-0.1.6.jar",
-            "file": "ITA-0.1.6.jar",
+            "version": "0.1.8",
+            "url": "packs/Genesis/files/mods/ITA-0.1.8.jar",
+            "file": "ITA-0.1.8.jar",
             "download": "server",
-            "md5": "6807a190824efc43e0f6ad7cb55c9021",
-            "filesize": 66903,
+            "md5": "4cd4f39e7674065a168c29d1f759e03a",
+            "filesize": 67341,
             "website": "http://ita.trcx.in/wiki/wikka.php?wakka=Home",
             "authors": [
                 "Trcx"
@@ -1905,11 +1950,11 @@
         },
         {
             "name": "Micdoodle8 Core",
-            "version": "3.0.11.318",
-            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.11.318.jar",
-            "file": "MicdoodleCore-1.7-3.0.11.318.jar",
+            "version": "3.0.11.325",
+            "url": "packs/Genesis/files/mods/MicdoodleCore-1.7-3.0.11.325.jar",
+            "file": "MicdoodleCore-1.7-3.0.11.325.jar",
             "download": "server",
-            "md5": "dfe7ad34f157f96a5fb4a5216f6a6210",
+            "md5": "1d2322ca240694fe3e0d05e5d7787a54",
             "filesize": 60716,
             "website": "http://www.micdoodle8.com/",
             "donation": "http://www.micdoodle8.com/",
@@ -1928,12 +1973,12 @@
         },
         {
             "name": "MineChem",
-            "version": "1.7.10-5.0.5.395",
-            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.395.jar",
-            "file": "Minechem-1.7.10-5.0.5.395.jar",
+            "version": "1.7.10-5.0.5.394",
+            "url": "packs/Genesis/files/mods/Minechem-1.7.10-5.0.5.394.jar",
+            "file": "Minechem-1.7.10-5.0.5.394.jar",
             "download": "server",
-            "md5": "ad8edde40e54fe4e934fcf2a6deee9fc",
-            "filesize": 1091776,
+            "md5": "4eee485bf71aaad18fc52d4bafd02bb3",
+            "filesize": 1090147,
             "website": "http://universalelectricity.com/minechem",
             "authors": [
                 "pixlepix"
@@ -1950,12 +1995,12 @@
         },
         {
             "name": "MineFactory Reloaded",
-            "version": "[1.7.10]2.8.0RC8-88",
-            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
-            "file": "MineFactoryReloaded-[1.7.10]2.8.0RC8-88.jar",
+            "version": "[1.7.10]2.8.0-104",
+            "url": "packs/Genesis/files/mods/MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
+            "file": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
             "download": "server",
-            "md5": "fef7a1b24562f13f672f7f4713983861",
-            "filesize": 1688086,
+            "md5": "51f38281ef847b479f38aa5fe087be4a",
+            "filesize": 1719328,
             "website": "http://www.minecraftforum.net/topic/2016680-",
             "authors": [
                 "PowerCrystals",
@@ -2063,12 +2108,12 @@
         },
         {
             "name": "Nether Ores",
-            "version": "2.3.0RC4",
-            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0RC4-4.jar",
-            "file": "NetherOres-[1.7.10]2.3.0RC4-4.jar",
+            "version": "2.3.0",
+            "url": "packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0-12.jar",
+            "file": "NetherOres-[1.7.10]2.3.0-12.jar",
             "download": "server",
-            "md5": "1449f3cf2e3f905960102a6896cef412",
-            "filesize": 79389,
+            "md5": "c8b5264bbf6670923e021fd3d6c047f7",
+            "filesize": 79555,
             "website": "http://minecraft.curseforge.com/mc-mods/netherores/",
             "authors": [
                 "PowerCrystals",
@@ -2389,12 +2434,12 @@
         },
         {
             "name": "Redstone Arsenal",
-            "version": "1.1.0RC7",
-            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
-            "file": "RedstoneArsenal-[1.7.10]1.1.0RC7-65.jar",
+            "version": "1.1.0",
+            "url": "packs/Genesis/files/mods/RedstoneArsenal-[1.7.10]1.1.0-80.jar",
+            "file": "RedstoneArsenal-[1.7.10]1.1.0-80.jar",
             "download": "server",
-            "md5": "26b3b5feea5f6c43c7f196a149d138a1",
-            "filesize": 313669,
+            "md5": "1c3545eb290e0ddadeba1cc36afd2814",
+            "filesize": 317947,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2791,12 +2836,12 @@
         },
         {
             "name": "Thermal Foundation",
-            "version": "1.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
-            "file": "ThermalFoundation-[1.7.10]1.0.0RC7-62.jar",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalFoundation-[1.7.10]1.0.0-81.jar",
+            "file": "ThermalFoundation-[1.7.10]1.0.0-81.jar",
             "download": "server",
-            "md5": "cc66b7c4ea509ae0e18ad2e6c1312a6b",
-            "filesize": 1656719,
+            "md5": "1442f906d4b9adb1d8540533da6b1b5f",
+            "filesize": 1694572,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
@@ -2813,12 +2858,12 @@
         },
         {
             "name": "Thermal Expansion",
-            "version": "4.0.0RC7",
-            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
-            "file": "ThermalExpansion-[1.7.10]4.0.0RC7-141.jar",
+            "version": "4.0.1",
+            "url": "packs/Genesis/files/mods/ThermalExpansion-[1.7.10]4.0.1-182.jar",
+            "file": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
             "download": "server",
-            "md5": "a8b05ca4ecb7b15d96c1bc3add84ffb4",
-            "filesize": 2293067,
+            "md5": "d8ad94bc7743ad87e7a384f22de283ed",
+            "filesize": 2289286,
             "website": "http://www.teamcofh.com",
             "donation": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3M6YK5LMC4GT6",
             "authors": [
@@ -2836,12 +2881,12 @@
         },
         {
             "name": "Thermal Dynamics",
-            "version": "1.0.0RC8",
-            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
-            "file": "ThermalDynamics-[1.7.10]1.0.0RC8-105.jar",
+            "version": "1.0.0",
+            "url": "packs/Genesis/files/mods/ThermalDynamics-[1.7.10]1.0.0-122.jar",
+            "file": "ThermalDynamics-[1.7.10]1.0.0-122.jar",
             "download": "server",
-            "md5": "f81f4610e65e8e5a67782a5dfcc80d4d",
-            "filesize": 411304,
+            "md5": "338c1c9100ea1e296dd0ef759a816afa",
+            "filesize": 413599,
             "website": "http://www.teamcofh.com",
             "authors": [
                 "Team CoFH"
