@@ -1,6 +1,6 @@
 <version>
     <pack>
-        <version>1.2.5</version>
+        <version>1.2.6</version>
         <minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -82,7 +82,7 @@
     
     <mod name="Chisel 2" version="2.3.8.35" url="packs/Genesis/files/mods/Chisel2-2.3.8.35.jar" file="Chisel2-2.3.8.35.jar" md5="b3a02cb38128206d76364dae0b46c4c8" download="server" type="mods" website="http://www.minecraftforum.net/forums/thread/1294901" authors="AUTOMATIC_MAIDEN,Pokefenn,Cricket,tterrag" description="A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel."/>
     
-    <mod name="CodeChickenCore" version="1.0.6.43" url="packs/Genesis/files/mods/CodeChickenCore-1.7.10-1.0.6.43-universal.jar" file="CodeChickenCore-1.7.10-1.0.6.43-universal.jar" md5="6accb120aa1d5b8c13819e85f5b44cd5" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Core library for all ChickenBones mods"/>
+    <mod name="CodeChickenCore" version="1.0.7.46" url="packs/Genesis/files/CodeChickenCore-1.7.10-1.0.7.46-universal.jar" file="CodeChickenCore-1.7.10-1.0.7.46-universal.jar" md5="8419dad3d2a93e11f0cedbe0868281f2" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Core library for all ChickenBones mods" />
     
     <mod name="CodeChickenLib" version="1.1.1.99" url="packs/Genesis/files/mods/CodeChickenLib-1.7.10-1.1.1.99-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.99-universal.jar" md5="a9043228d7d6fc52a7cb0d1d20922ce1" download="server" type="dependency" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Needed for ChickenBones mods"/>
     
@@ -106,7 +106,7 @@
     
     <mod name="Ender IO" version="2.2.8.381" url="packs/Genesis/files/mods/EnderIO-1.7.10-2.2.8.381.jar" file="EnderIO-1.7.10-2.2.8.381.jar" md5="08a0ec390dab975047b85dc23224ffb9" download="server" type="mods" website="http://enderio.com" authors="CrazyPants,tterrag" description="Compact conduits, painted things and access to your stuff through an eye of ender."/>
     
-    <mod name="Ender Storage" version="1.4.7.33" url="packs/Genesis/files/mods/EnderStorage-1.7.10-1.4.7.33-universal.jar" file="EnderStorage-1.7.10-1.4.7.33-universal.jar" md5="9d99648771953797fdafaebd689efd06" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)."/>
+    <mod name="EnderStorage" version="1.4.7.36" url="packs/Genesis/files/EnderStorage-1.7.10-1.4.7.36-universal.jar" file="EnderStorage-1.7.10-1.4.7.36-universal.jar" md5="8bbdecbf02735dbab742fc278c9725fc" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Stores your stuff in the END!  Credits: Ecu - original idea, design,         chest and pouch texture     Rosethorns - tank model     Soaryn - tank texture  Supporters: Blkdragon112" />
     
     <mod name="Ender Zoo" version="1.7.10-1.0.11.28" url="packs/Genesis/files/mods/EnderZoo-1.7.10-1.0.11.28.jar" file="EnderZoo-1.7.10-1.0.11.28.jar" md5="d0b411ec33ed350c619ee8ab86a131f4" download="server" type="mods" website="http://enderio.com" authors="crazypants" description="More Mobs"/>
     
@@ -206,7 +206,7 @@
     
     <mod name="Nether Ores" version="2.3.0" url="packs/Genesis/files/mods/NetherOres-[1.7.10]2.3.0-12.jar" file="NetherOres-[1.7.10]2.3.0-12.jar" md5="c8b5264bbf6670923e021fd3d6c047f7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/netherores/" authors="PowerCrystals,TehKrush,AtomicStryker,skyboy026" description="Introduces mineable yet dangerous ores to the Nether"/>
     
-    <mod name="NotEnoughItems" version="1.0.4.79" url="packs/Genesis/files/mods/NotEnoughItems-1.7.10-1.0.4.79-universal.jar" file="NotEnoughItems-1.7.10-1.0.4.79-universal.jar" md5="dd941d67f6ec02da9d71b05592ea7735" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities."/>
+    <mod name="NotEnoughItems" version="1.0.5.110" url="packs/Genesis/files/NotEnoughItems-1.7.10-1.0.5.110-universal.jar" file="NotEnoughItems-1.7.10-1.0.5.110-universal.jar" md5="c1e524eda1e4c5adb75ac2f31bd6d6df" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
     
     <mod name="Not Enough Resources" version="1.0.96" url="packs/Genesis/files/mods/NotEnoughResources-1.7.10-0.1.0.96.jar" file="NotEnoughResources-1.7.10-0.1.0.96.jar" md5="9409d322e72d93037f1c1de2420960f5" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/225815-notenoughresources" authors="hilburn,way2muchnoise" description="Adds Resources and Mob Drops to NEI"/>
     
@@ -276,7 +276,7 @@
     
     <mod name="TiC Tooltips" version="1.2.4" url="packs/Genesis/files/mods/TiCTooltips-mc1.7.10-1.2.4.jar" file="TiCTooltips-mc1.7.10-1.2.4.jar" md5="46aec5e72a6b43ffa06550b330a9a751" download="server" type="mods" website="http://www.minecraftforum.net/topic/2509840-" authors="squeek" description="A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool part tooltips."/>
     
-    <mod name="Translocator" version="1.1.1.14" url="packs/Genesis/files/mods/Translocator-1.7.10-1.1.1.14-universal.jar" file="Translocator-1.7.10-1.1.1.14-universal.jar" md5="7e2e7e14dbc050e94f9faec84e142288" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Translocates stuff!"/>
+    <mod name="Translocator" version="1.1.2.15" url="packs/Genesis/files/Translocator-1.7.10-1.1.2.15-universal.jar" file="Translocator-1.7.10-1.1.2.15-universal.jar" md5="8eee76817934d0d79ca75448f3cd1229" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Translocates stuff!    Credits: MouseCop - Textures  Supporters:" />
     
     <mod name="ttCore" version="0.1.1-76" url="packs/Genesis/files/mods/ttCore-MC1.7.10-0.1.1-76.jar" file="ttCore-MC1.7.10-0.1.1-76.jar" md5="c71611e177f25d02cc2d44dfbd5e1eca" download="server" type="mods" website="http://ci.tterrag.com" authors="tterrag" description="Core mod for tterrag's mods."/>
     
